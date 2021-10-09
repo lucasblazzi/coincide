@@ -19,7 +19,7 @@ DESCRIPTOR = _descriptor.FileDescriptor(
   syntax='proto3',
   serialized_options=None,
   create_key=_descriptor._internal_create_key,
-  serialized_pb=b'\n\x0e\x63oincide.proto\"\x06\n\x04Void\"%\n\x06Metric\x12\x0c\n\x04name\x18\x01 \x01(\t\x12\r\n\x05value\x18\x02 \x01(\x02\">\n\x0fMetricsResponse\x12\x11\n\tbase_date\x18\x01 \x01(\t\x12\x18\n\x07metrics\x18\x02 \x03(\x0b\x32\x07.Metric\"3\n\x0eMetricsRequest\x12\x11\n\tbase_date\x18\x01 \x01(\t\x12\x0e\n\x06ticker\x18\x02 \x01(\t\"\x1d\n\x05Value\x12\t\n\x01x\x18\x01 \x01(\x05\x12\t\n\x01y\x18\x02 \x01(\x02\"C\n\rPricesRequest\x12\x0e\n\x06ticker\x18\x01 \x01(\t\x12\x11\n\tstartDate\x18\x02 \x01(\t\x12\x0f\n\x07\x65ndDate\x18\x03 \x01(\t\"(\n\x0ePricesResponse\x12\x16\n\x06values\x18\x01 \x03(\x0b\x32\x06.Value\"@\n\x0cNotification\x12\r\n\x05\x65mail\x18\x01 \x01(\t\x12!\n\x08products\x18\x02 \x01(\x0b\x32\x0f.LoadedProducts\"\xce\x02\n\x08StockFII\x12\x0c\n\x04name\x18\x01 \x01(\t\x12\x0e\n\x06ticker\x18\x03 \x01(\t\x12\x10\n\x08\x63\x61tegory\x18\x02 \x01(\t\x12\x0c\n\x04link\x18\x04 \x01(\t\x12\x0f\n\x07segment\x18\x05 \x01(\t\x12\x16\n\x0erecommendation\x18\x06 \x01(\t\x12\x14\n\x0ctarget_price\x18\x07 \x01(\t\x12\x18\n\x10publication_date\x18\x08 \x01(\t\x12\x13\n\x0b\x64\x65scription\x18\t \x01(\t\x12\r\n\x05price\x18\n \x01(\x02\x12\x11\n\tpotential\x18\x0b \x01(\x02\x12\x11\n\treturn12m\x18\x0c \x01(\x02\x12\x13\n\x0b\x66orecast12m\x18\r \x01(\x02\x12\x19\n\x11mean_daily_volume\x18\x0e \x01(\x02\x12\x19\n\x11mean_daily_return\x18\x0f \x01(\x02\x12\x16\n\x0e\x64ividend_yield\x18\x10 \x01(\x02\"\x84\x01\n\x03\x43OE\x12\x0c\n\x04name\x18\x01 \x01(\t\x12\x10\n\x08strategy\x18\x02 \x01(\t\x12\x16\n\x0e\x63lassification\x18\x03 \x01(\t\x12\x10\n\x08\x64\x65\x61\x64line\x18\x04 \x01(\x05\x12\x13\n\x0b\x64\x65scription\x18\x05 \x01(\t\x12\x10\n\x08\x63\x61tegory\x18\x06 \x01(\t\x12\x0c\n\x04link\x18\x07 \x01(\t\"\r\n\x0b\x46ixedIncome\"\xaa\x01\n\x0eInvestmentFund\x12\x0c\n\x04name\x18\x01 \x01(\t\x12\x0c\n\x04link\x18\x02 \x01(\t\x12\x10\n\x08\x63\x61tegory\x18\x03 \x01(\t\x12\x17\n\x0fmin_application\x18\x04 \x01(\x02\x12\x0f\n\x07\x61\x64m_tax\x18\x05 \x01(\x02\x12\x12\n\nredemption\x18\x06 \x01(\t\x12\x16\n\x0e\x63lassification\x18\x07 \x01(\t\x12\x14\n\x0cmonth_return\x18\x08 \x01(\x02\"\x82\x01\n\x0bPensionFund\x12\x0c\n\x04name\x18\x01 \x01(\t\x12\x17\n\x0fmin_application\x18\x02 \x01(\x02\x12\x14\n\x0cmonth_return\x18\x03 \x01(\x02\x12\x13\n\x0byear_return\x18\x04 \x01(\x02\x12\x0f\n\x07\x61\x64m_tax\x18\x05 \x01(\x02\x12\x10\n\x08\x63\x61tegory\x18\x06 \x01(\t\"\xdf\x01\n\x0eLoadedProducts\x12\x0c\n\x04\x64\x61te\x18\x01 \x01(\t\x12\x19\n\x06stocks\x18\x02 \x03(\x0b\x32\t.StockFII\x12\x1d\n\nreal_state\x18\x03 \x03(\x0b\x32\t.StockFII\x12\x11\n\x03\x63oe\x18\x04 \x03(\x0b\x32\x04.COE\x12\"\n\x0c\x66ixed_income\x18\x05 \x03(\x0b\x32\x0c.FixedIncome\x12)\n\x10investment_funds\x18\x06 \x03(\x0b\x32\x0f.InvestmentFund\x12#\n\rpension_funds\x18\x07 \x03(\x0b\x32\x0c.PensionFund2:\n\x07Metrics\x12/\n\nGetMetrics\x12\x0f.MetricsRequest\x1a\x10.MetricsResponse26\n\x06Prices\x12,\n\tGetPrices\x12\x0e.PricesRequest\x1a\x0f.PricesResponse23\n\x08Products\x12\'\n\x0bGetProducts\x12\x05.Void\x1a\x0f.LoadedProducts0\x01\x62\x06proto3'
+  serialized_pb=b'\n\x0e\x63oincide.proto\"\x06\n\x04Void\"%\n\x06Metric\x12\x0c\n\x04name\x18\x01 \x01(\t\x12\r\n\x05value\x18\x02 \x01(\x02\"+\n\x0fMetricsResponse\x12\x18\n\x07metrics\x18\x02 \x03(\x0b\x32\x07.Metric\"3\n\x0eMetricsRequest\x12\x11\n\tbase_date\x18\x01 \x01(\t\x12\x0e\n\x06ticker\x18\x02 \x01(\t\"\x1d\n\x05Value\x12\t\n\x01x\x18\x01 \x01(\x05\x12\t\n\x01y\x18\x02 \x01(\x02\"C\n\rPricesRequest\x12\x0e\n\x06ticker\x18\x01 \x01(\t\x12\x11\n\tstartDate\x18\x02 \x01(\t\x12\x0f\n\x07\x65ndDate\x18\x03 \x01(\t\"(\n\x0ePricesResponse\x12\x16\n\x06values\x18\x01 \x03(\x0b\x32\x06.Value\"@\n\x0cNotification\x12\r\n\x05\x65mail\x18\x01 \x01(\t\x12!\n\x08products\x18\x02 \x01(\x0b\x32\x0f.LoadedProducts\"\xce\x02\n\x08StockFII\x12\x0c\n\x04name\x18\x01 \x01(\t\x12\x0e\n\x06ticker\x18\x03 \x01(\t\x12\x10\n\x08\x63\x61tegory\x18\x02 \x01(\t\x12\x0c\n\x04link\x18\x04 \x01(\t\x12\x0f\n\x07segment\x18\x05 \x01(\t\x12\x16\n\x0erecommendation\x18\x06 \x01(\t\x12\x14\n\x0ctarget_price\x18\x07 \x01(\t\x12\x18\n\x10publication_date\x18\x08 \x01(\t\x12\x13\n\x0b\x64\x65scription\x18\t \x01(\t\x12\r\n\x05price\x18\n \x01(\x02\x12\x11\n\tpotential\x18\x0b \x01(\x02\x12\x11\n\treturn12m\x18\x0c \x01(\x02\x12\x13\n\x0b\x66orecast12m\x18\r \x01(\x02\x12\x19\n\x11mean_daily_volume\x18\x0e \x01(\x02\x12\x19\n\x11mean_daily_return\x18\x0f \x01(\x02\x12\x16\n\x0e\x64ividend_yield\x18\x10 \x01(\x02\"\x84\x01\n\x03\x43OE\x12\x0c\n\x04name\x18\x01 \x01(\t\x12\x10\n\x08strategy\x18\x02 \x01(\t\x12\x16\n\x0e\x63lassification\x18\x03 \x01(\t\x12\x10\n\x08\x64\x65\x61\x64line\x18\x04 \x01(\x05\x12\x13\n\x0b\x64\x65scription\x18\x05 \x01(\t\x12\x10\n\x08\x63\x61tegory\x18\x06 \x01(\t\x12\x0c\n\x04link\x18\x07 \x01(\t\"\r\n\x0b\x46ixedIncome\"\xaa\x01\n\x0eInvestmentFund\x12\x0c\n\x04name\x18\x01 \x01(\t\x12\x0c\n\x04link\x18\x02 \x01(\t\x12\x10\n\x08\x63\x61tegory\x18\x03 \x01(\t\x12\x17\n\x0fmin_application\x18\x04 \x01(\x02\x12\x0f\n\x07\x61\x64m_tax\x18\x05 \x01(\x02\x12\x12\n\nredemption\x18\x06 \x01(\t\x12\x16\n\x0e\x63lassification\x18\x07 \x01(\t\x12\x14\n\x0cmonth_return\x18\x08 \x01(\x02\"\x82\x01\n\x0bPensionFund\x12\x0c\n\x04name\x18\x01 \x01(\t\x12\x17\n\x0fmin_application\x18\x02 \x01(\x02\x12\x14\n\x0cmonth_return\x18\x03 \x01(\x02\x12\x13\n\x0byear_return\x18\x04 \x01(\x02\x12\x0f\n\x07\x61\x64m_tax\x18\x05 \x01(\x02\x12\x10\n\x08\x63\x61tegory\x18\x06 \x01(\t\"\xdf\x01\n\x0eLoadedProducts\x12\x0c\n\x04\x64\x61te\x18\x01 \x01(\t\x12\x19\n\x06stocks\x18\x02 \x03(\x0b\x32\t.StockFII\x12\x1d\n\nreal_state\x18\x03 \x03(\x0b\x32\t.StockFII\x12\x11\n\x03\x63oe\x18\x04 \x03(\x0b\x32\x04.COE\x12\"\n\x0c\x66ixed_income\x18\x05 \x03(\x0b\x32\x0c.FixedIncome\x12)\n\x10investment_funds\x18\x06 \x03(\x0b\x32\x0f.InvestmentFund\x12#\n\rpension_funds\x18\x07 \x03(\x0b\x32\x0c.PensionFund2:\n\x07Metrics\x12/\n\nGetMetrics\x12\x0f.MetricsRequest\x1a\x10.MetricsResponse26\n\x06Prices\x12,\n\tGetPrices\x12\x0e.PricesRequest\x1a\x0f.PricesResponse23\n\x08Products\x12\'\n\x0bGetProducts\x12\x05.Void\x1a\x0f.LoadedProducts0\x01\x62\x06proto3'
 )
 
 
@@ -98,14 +98,7 @@ _METRICSRESPONSE = _descriptor.Descriptor(
   create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
-      name='base_date', full_name='MetricsResponse.base_date', index=0,
-      number=1, type=9, cpp_type=9, label=1,
-      has_default_value=False, default_value=b"".decode('utf-8'),
-      message_type=None, enum_type=None, containing_type=None,
-      is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
-    _descriptor.FieldDescriptor(
-      name='metrics', full_name='MetricsResponse.metrics', index=1,
+      name='metrics', full_name='MetricsResponse.metrics', index=0,
       number=2, type=11, cpp_type=10, label=3,
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
@@ -124,7 +117,7 @@ _METRICSRESPONSE = _descriptor.Descriptor(
   oneofs=[
   ],
   serialized_start=65,
-  serialized_end=127,
+  serialized_end=108,
 )
 
 
@@ -162,8 +155,8 @@ _METRICSREQUEST = _descriptor.Descriptor(
   extension_ranges=[],
   oneofs=[
   ],
-  serialized_start=129,
-  serialized_end=180,
+  serialized_start=110,
+  serialized_end=161,
 )
 
 
@@ -201,8 +194,8 @@ _VALUE = _descriptor.Descriptor(
   extension_ranges=[],
   oneofs=[
   ],
-  serialized_start=182,
-  serialized_end=211,
+  serialized_start=163,
+  serialized_end=192,
 )
 
 
@@ -247,8 +240,8 @@ _PRICESREQUEST = _descriptor.Descriptor(
   extension_ranges=[],
   oneofs=[
   ],
-  serialized_start=213,
-  serialized_end=280,
+  serialized_start=194,
+  serialized_end=261,
 )
 
 
@@ -279,8 +272,8 @@ _PRICESRESPONSE = _descriptor.Descriptor(
   extension_ranges=[],
   oneofs=[
   ],
-  serialized_start=282,
-  serialized_end=322,
+  serialized_start=263,
+  serialized_end=303,
 )
 
 
@@ -318,8 +311,8 @@ _NOTIFICATION = _descriptor.Descriptor(
   extension_ranges=[],
   oneofs=[
   ],
-  serialized_start=324,
-  serialized_end=388,
+  serialized_start=305,
+  serialized_end=369,
 )
 
 
@@ -455,8 +448,8 @@ _STOCKFII = _descriptor.Descriptor(
   extension_ranges=[],
   oneofs=[
   ],
-  serialized_start=391,
-  serialized_end=725,
+  serialized_start=372,
+  serialized_end=706,
 )
 
 
@@ -529,8 +522,8 @@ _COE = _descriptor.Descriptor(
   extension_ranges=[],
   oneofs=[
   ],
-  serialized_start=728,
-  serialized_end=860,
+  serialized_start=709,
+  serialized_end=841,
 )
 
 
@@ -554,8 +547,8 @@ _FIXEDINCOME = _descriptor.Descriptor(
   extension_ranges=[],
   oneofs=[
   ],
-  serialized_start=862,
-  serialized_end=875,
+  serialized_start=843,
+  serialized_end=856,
 )
 
 
@@ -635,8 +628,8 @@ _INVESTMENTFUND = _descriptor.Descriptor(
   extension_ranges=[],
   oneofs=[
   ],
-  serialized_start=878,
-  serialized_end=1048,
+  serialized_start=859,
+  serialized_end=1029,
 )
 
 
@@ -702,8 +695,8 @@ _PENSIONFUND = _descriptor.Descriptor(
   extension_ranges=[],
   oneofs=[
   ],
-  serialized_start=1051,
-  serialized_end=1181,
+  serialized_start=1032,
+  serialized_end=1162,
 )
 
 
@@ -776,8 +769,8 @@ _LOADEDPRODUCTS = _descriptor.Descriptor(
   extension_ranges=[],
   oneofs=[
   ],
-  serialized_start=1184,
-  serialized_end=1407,
+  serialized_start=1165,
+  serialized_end=1388,
 )
 
 _METRICSRESPONSE.fields_by_name['metrics'].message_type = _METRIC
@@ -912,8 +905,8 @@ _METRICS = _descriptor.ServiceDescriptor(
   index=0,
   serialized_options=None,
   create_key=_descriptor._internal_create_key,
-  serialized_start=1409,
-  serialized_end=1467,
+  serialized_start=1390,
+  serialized_end=1448,
   methods=[
   _descriptor.MethodDescriptor(
     name='GetMetrics',
@@ -938,8 +931,8 @@ _PRICES = _descriptor.ServiceDescriptor(
   index=1,
   serialized_options=None,
   create_key=_descriptor._internal_create_key,
-  serialized_start=1469,
-  serialized_end=1523,
+  serialized_start=1450,
+  serialized_end=1504,
   methods=[
   _descriptor.MethodDescriptor(
     name='GetPrices',
@@ -964,8 +957,8 @@ _PRODUCTS = _descriptor.ServiceDescriptor(
   index=2,
   serialized_options=None,
   create_key=_descriptor._internal_create_key,
-  serialized_start=1525,
-  serialized_end=1576,
+  serialized_start=1506,
+  serialized_end=1557,
   methods=[
   _descriptor.MethodDescriptor(
     name='GetProducts',
