@@ -1,37 +1,41 @@
-import requests
-from bs4 import BeautifulSoup, Tag
+import os
+import grpc
+from coincide_pb2 import MetricsRequest
+from coincide_pb2_grpc import MetricsStub
+
+from utils.product import Product
+from sources.btg import full_btg
+from sources.xp import full_xp
 
 
-categories = {
-    "ativos_coe": "COE",
-    "ativos_acoes_fund": "Ações",
-    "ativos_fund_imob": "Fundos Imobiliários",
-    "renda_fixa_ativos_credito_privado,renda_fixa_ativos_bancarios,renda_fixa_ativos_tesouro_direto": "Renda Fixa",
-    "ativos_fund_invest": "Fundos de Investimento",
-    "ativos_prev_privada": "Previdência Privada"
-}
+metrics_host = os.environ.get("METRICS_HOST", "[::]")
 
 
-def xp_crawl(target):
-    page = requests.get(f'https://conteudos.xpi.com.br/wp-json/xpinsights/v2/filtrar-conteudo?filter-function=xpinsights_default_destaques_ativos_filter&destaque={target}&box=Produtos&multiauthors=true', headers={'User-Agent': 'Mozilla/5.0'})
-    soup = BeautifulSoup(page.json()["html"], 'html.parser')
-    products = soup.find_all("div", {"class": "box-produtos"})
+def get_metrics(ticker):
+    try:
+        with grpc.insecure_channel(f"{metrics_host}:9999") as channel:
+            stub = MetricsStub(channel)
+            request = MetricsRequest(base_date=date.today().strftime("%Y-%m-%d"), ticker=ticker)
+            metrics = stub.GetMetrics(request)
+    except Exception as e:
+        raise e
+    return metrics
 
-    parsed_products = []
-    #print(products[0])
+
+def compose_products(products: list) -> list:
+    _products = list()
+    calculate = ("Ações", "Fundos Imobiliários")
     for product in products:
-        parsed_product = {}
-        for dado in product.ul:
-            if isinstance(dado, Tag):
-                data = dado.text.replace("  ", "").strip().split("\n")
-                parsed_data = list(filter(None, data))
-                parsed_product[parsed_data[0]] = parsed_data[1]
-            else:
-                continue
-        parsed_product["Nome"] = product.h4.text
-        parsed_product["Informações"] = product.a["href"]
-        parsed_products.append(parsed_product)
-    print(parsed_products)
+        _product = Product(product).compose_product
+        if _product["category"] in calculate:
+            metrics = {x.name: x.value for x in get_metrics(_product["ticker"])}
+            _product = _product | metrics
+        _products.append(_product)
+    return _products
 
 
-xp_crawl("ativos_prev_privada")
+def get_products():
+    _products = list()
+    _products.extend(full_btg())
+    _products.extend(full_xp())
+    return compose_products(_products)
