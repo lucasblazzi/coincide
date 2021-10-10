@@ -1,5 +1,6 @@
 import os
 import grpc
+from datetime import date
 from coincide_pb2 import MetricsRequest
 from coincide_pb2_grpc import MetricsStub
 
@@ -8,18 +9,19 @@ from sources.btg import full_btg
 from sources.xp import full_xp
 
 
-metrics_host = os.environ.get("METRICS_HOST", "[::]")
+metrics_host = os.environ.get("METRICS_HOST", "localhost")
+metrics_port = os.environ.get("METRICS_PORT", "9999")
 
 
 def get_metrics(ticker):
     try:
-        with grpc.insecure_channel(f"{metrics_host}:9999") as channel:
+        with grpc.insecure_channel(f"{metrics_host}:{metrics_port}") as channel:
             stub = MetricsStub(channel)
             request = MetricsRequest(base_date=date.today().strftime("%Y-%m-%d"), ticker=ticker)
             metrics = stub.GetMetrics(request)
+            return metrics
     except Exception as e:
         raise e
-    return metrics
 
 
 def compose_products(products: list) -> list:
@@ -28,8 +30,11 @@ def compose_products(products: list) -> list:
     for product in products:
         _product = Product(product).compose_product
         if _product["category"] in calculate:
-            metrics = {x.name: x.value for x in get_metrics(_product["ticker"])}
-            _product = _product | metrics
+            metrics = get_metrics(_product["ticker"])
+            p_metrics = {x.name: x.value for x in metrics.metrics}
+            _product = _product | p_metrics
+            _product["name"] = metrics.name
+            print(_product)
         _products.append(_product)
     return _products
 
@@ -39,3 +44,8 @@ def get_products():
     _products.extend(full_btg())
     _products.extend(full_xp())
     return compose_products(_products)
+
+
+if __name__ == "__main__":
+    print("Starting crawler")
+    get_products()
