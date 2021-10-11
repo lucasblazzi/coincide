@@ -31,10 +31,10 @@ def compose_products(products: list) -> list:
         _product = Product(product).compose_product
         if _product["category"] in calculate:
             metrics = get_metrics(_product["ticker"])
-            p_metrics = {x.name: x.value for x in metrics.metrics}
-            _product = _product | p_metrics
-            _product["name"] = metrics.name
-            print(_product)
+            if metrics.ByteSize():
+                p_metrics = {x.name: x.value for x in metrics.metrics}
+                _product = _product | p_metrics
+                _product["name"] = metrics.name or _product["name"] or _product["ticker"]
         _products.append(_product)
     return _products
 

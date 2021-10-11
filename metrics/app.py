@@ -42,16 +42,33 @@ def response_builder(metrics, name):
     for k, v in metrics.items():
         metric_value = _metrics.metrics.add()
         metric_value.name = k
-        metric_value.value = v
+        if v:
+            metric_value.value = float(v)
+        else:
+            metric_value.value = 0.0
     return _metrics
-    
+
+
+def prepare_info(info, index, field, name):
+    if info.get(field):
+        dividends = pd.DataFrame(info[field]).rename(columns={"value": name})
+    else:
+        dividends = pd.DataFrame()
+        dividends["date"] = index
+        dividends[name] = 0.0
+    return dividends
+
 
 def compose_df(data):
     info = MessageToDict(data)
+    if not info.get("prices"):
+        return pd.DataFrame()
     close = pd.DataFrame(info["prices"]).rename(columns={"value": "close"})
-    dividends = pd.DataFrame(info["dividends"]).rename(columns={"value": "dividend"})
-    volumes = pd.DataFrame(info["volumes"]).rename(columns={"value": "volume"})
+    volumes = prepare_info(info, close["date"], "volumes", "volume")
+    dividends = prepare_info(info, close["date"], "dividends", "dividend")
     final_df = close.merge(dividends, "left", on="date").merge(volumes, "left", on="date").set_index("date").fillna(0)
+    cols = final_df.columns
+    final_df[cols] = final_df[cols].apply(pd.to_numeric, errors='coerce')
     return final_df
 
 
@@ -59,17 +76,26 @@ def server_setup():
     server = grpc.server(futures.ThreadPoolExecutor(max_workers=10))
     grpc_service.add_MetricsServicer_to_server(MetricsServicer(), server)
     server.add_insecure_port(f"{metrics_host}:{metrics_port}")
-    server.start()
-    print(f"Server is running on {metrics_host}:{metrics_port}")
-    server.wait_for_termination()
+    try:
+        server.start()
+        print(f"Server is running on {metrics_host}:{metrics_port}")
+        server.wait_for_termination()
+    except KeyboardInterrupt:
+        print("Stopping metrics service")
+        server.stop(0)
 
 
 class MetricsServicer(grpc_service.MetricsServicer):
     def GetMetrics(self, request, context):
         data = get_prices(request)
-        df = compose_df(data)
-        metrics = Metrics(request).get_metrics(df)
-        return response_builder(metrics, data.name)
+        if data.ByteSize():
+            df = compose_df(data)
+            if df.empty:
+                return MetricsResponse()
+            metrics = Metrics(request).get_metrics(df)
+            return response_builder(metrics, data.name)
+        else:
+            return MetricsResponse()
 
 
 if __name__ == "__main__":
