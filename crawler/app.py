@@ -7,7 +7,7 @@ from coincide_pb2_grpc import MetricsStub
 from utils.product import Product
 from sources.btg import full_btg
 from sources.xp import full_xp
-
+import json
 
 metrics_host = os.environ.get("METRICS_HOST", "localhost")
 metrics_port = os.environ.get("METRICS_PORT", "9999")
@@ -48,4 +48,5 @@ def get_products():
 
 if __name__ == "__main__":
     print("Starting crawler")
-    get_products()
+    with open("results.json", "w") as e:
+        e.write(json.dumps(get_products(), indent=4))
