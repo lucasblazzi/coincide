@@ -33,7 +33,7 @@ def parse_products(products: list, category) -> list:
 
 
 def category_btg(path):
-    url = f"https://www.btgpactualdigital.com/wp-json/wp/v2/area_de_analises?per_page=100&categorias_de_analise={path}"
+    url = f"https://www.btgpactualdigital.com/wp-json/wp/v2/area_de_analises?per_page=10&categorias_de_analise={path}"
     products = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'}).json()
     _products = parse_products(products, categories[path])
     return _products

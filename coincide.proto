@@ -12,6 +12,7 @@ message Metric {
 }
 
 message MetricsResponse {
+  string name = 1;
   repeated Metric metrics = 2;
 }
 
@@ -21,23 +22,26 @@ message MetricsRequest {
 }
 
 
-service Prices {
-    rpc GetPrices(PricesRequest) returns (PricesResponse);
+service Info {
+    rpc GetInfo(InfoRequest) returns (InfoResponse);
 }
 
 message Value {
-  int32 x = 1;
-  float y = 2;
+  string date = 1;
+  float value = 2;
 }
 
-message PricesRequest {
+message InfoRequest {
   string ticker = 1;
-  string startDate = 2;
-  string endDate = 3;
+  string start_date = 2;
+  string end_date = 3;
 }
 
-message PricesResponse {
-  repeated Value values = 1;
+message InfoResponse {
+  string name = 1;
+  repeated Value prices = 2;
+  repeated Value volumes = 3;
+  repeated Value dividends = 4;
 }
 
 
