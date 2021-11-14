@@ -10,7 +10,7 @@ import coincide_pb2_grpc as grpc_service
 from coincide_pb2_grpc import InfoStub
 from coincide_pb2 import InfoRequest, MetricsResponse
 
-from utils.metrics import Metrics
+from utils.product_metrics import Metrics
 
 
 prices_host = os.environ.get("PRICES_HOST", "localhost")

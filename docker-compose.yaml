@@ -1,0 +1,11 @@
+version: "3.8"
+services:
+
+    redis_db:
+        container_name: redis_db
+        command: bash -c "redis-server --appendonly yes"
+        image: redis
+        ports:
+            - "6379:6379"
+        volumes:
+            - ./redis-volume:/data

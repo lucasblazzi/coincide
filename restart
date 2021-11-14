@@ -1,0 +1,3 @@
+#!/bin/bashstart=`date +%s`
+echo "Running restart..."docker-compose --compatibility down && docker-compose --compatibility up -dend=`date +%s`
+echo -e "\nScript has reached its end after: " $((end-start)) " seconds"

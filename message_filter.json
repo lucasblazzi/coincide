@@ -1,0 +1,77 @@
+// Estrutura Redis filtros
+{
+  "email": "",
+  "stocks": {
+    "segment": "Propriedades",
+    "recommendation": "buy",
+    "dividend_yield_min": 0,
+    "dividend_yield_max": 0.3,
+    "return12m_min": 0,
+    "return12m_max": 14.2
+  },
+  "funds": {
+    "rating": "AA",
+    "adm_tax_min": 0,
+    "adm_tax_max": 0.4
+  }
+}
+
+
+Stocks
+  - segment - [Propriedades, Saúde, Serviços Básicos, Construção civil, Locação, Varejo, Papel & Celulose,
+  - recommendation -, COMPRA, VENDA, NEUTRO
+  - return12m_min - aberto numerico float
+  - return12m_max - aberto numerico float
+  - dividend_yield_min - aberto numerico float
+  - dividend_yield_max - aberto numerico float
+  - price_min - aberto numerico float,
+  - price_max - aberto numerico float,
+
+
+Real State Funds
+  - segment - [Lajes corporativas, Títulos e Valores Mobiliários, Logístico, Shoppings, Híbrido, Outros]
+  - return12m_min - aberto numerico float
+  - return12m_max - aberto numerico float
+  - dividend_yield_min - aberto numerico float
+  - dividend_yield_max - aberto numerico float
+  - price_min - aberto numerico float,
+  - price_max - aberto numerico float,
+
+
+COE
+  - strategy - Participação, Autocallable
+  - classification - Rating AAA(bra), Rating AA(bra), Rating A(bra)
+  - deadline_min - aberto numerico float,
+  - deadline_max - aberto numerico float,
+
+
+Investment Funds
+  - min_application_min - aberto numerico float
+  - min_application_max - aberto numerico float
+  - adm_tax_min - aberto numerico float
+  - adm_tax_max - aberto numerico float
+  - classification - Multiestratégia, Crédito High Grade, Quantitativo, Renda Variável Long Only Livre, Macro Média Vol, Macro Alta Vol, Crédito High Yield, Debêntures Incentivadas Não Hedgeado,
+  - month_return_min - aberto numerico float
+  - month_return_max - aberto numerico float
+
+
+Pension Funds,
+  - min_application_min - aberto numerico float
+  - min_application_max - aberto numerico float
+  - adm_tax_min - aberto numerico float
+  - adm_tax_max - aberto numerico float,
+  - month_return_min - aberto numerico float
+  - month_return_max - aberto numerico float,
+
+
+
+crawler publica
+middle_stream filtra -> baseado no redis
+envia por email
+
+usuario escuta endpoint ws
+middle_stream envia baseado no endpoint/email
+
+// Chave redis
+{user.filters}.lucasblazzi@hotmail.com
+{{user.filters}}.email
