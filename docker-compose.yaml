@@ -2,7 +2,7 @@ version: "3.8"
 services:
 
     redis_db:
-        container_name: redis_db
+        container_name: redis_db_publisher
         command: bash -c "redis-server --appendonly yes"
         image: redis
         ports:

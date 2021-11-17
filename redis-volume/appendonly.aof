@@ -1,0 +1,2868 @@
+*2
+$6
+SELECT
+$1
+0
+*3
+$3
+SET
+$37
+{user.filter}.lucasblazzi@hotmail.com
+$260
+{"email": "lucasblazzi@hotmail.com", "stocks": {"segment": "Propriedades", "recommendation": "buy", "dividend_yield_min": 0, "dividend_yield_max": 0.3, "return12m_min": 0, "return12m_max": 14.2}, "funds": {"rating": "AA", "adm_tax_min": 0, "adm_tax_max": 0.4}}
+*3
+$3
+SET
+$37
+{user.filter}.lucasblazzi@hotmail.com
+$260
+{"email": "lucasblazzi@hotmail.com", "stocks": {"segment": "Propriedades", "recommendation": "buy", "dividend_yield_min": 0, "dividend_yield_max": 0.3, "return12m_min": 0, "return12m_max": 14.2}, "funds": {"rating": "AA", "adm_tax_min": 0, "adm_tax_max": 0.4}}
+*3
+$3
+SET
+$37
+{user.filter}.lucasblazzi@hotmail.com
+$260
+{"email": "lucasblazzi@hotmail.com", "stocks": {"segment": "Propriedades", "recommendation": "buy", "dividend_yield_min": 0, "dividend_yield_max": 0.3, "return12m_min": 0, "return12m_max": 14.2}, "funds": {"rating": "AA", "adm_tax_min": 0, "adm_tax_max": 0.4}}
+*3
+$3
+SET
+$37
+{user.filter}.lucasblazzi@hotmail.com
+$260
+{"email": "lucasblazzi@hotmail.com", "stocks": {"segment": "Propriedades", "recommendation": "buy", "dividend_yield_min": 0, "dividend_yield_max": 0.3, "return12m_min": 0, "return12m_max": 14.2}, "funds": {"rating": "AA", "adm_tax_min": 0, "adm_tax_max": 0.4}}
+*3
+$3
+SET
+$37
+{user.filter}.lucasblazzi@hotmail.com
+$260
+{"email": "lucasblazzi@hotmail.com", "stocks": {"segment": "Propriedades", "recommendation": "buy", "dividend_yield_min": 0, "dividend_yield_max": 0.3, "return12m_min": 0, "return12m_max": 14.2}, "funds": {"rating": "AA", "adm_tax_min": 0, "adm_tax_max": 0.4}}
+*3
+$3
+SET
+$37
+{user.filter}.lucasblazzi@hotmail.com
+$260
+{"email": "lucasblazzi@hotmail.com", "stocks": {"segment": "Propriedades", "recommendation": "buy", "dividend_yield_min": 0, "dividend_yield_max": 0.3, "return12m_min": 0, "return12m_max": 14.2}, "funds": {"rating": "AA", "adm_tax_min": 0, "adm_tax_max": 0.4}}
+*3
+$3
+SET
+$37
+{user.filter}.lucasblazzi@hotmail.com
+$260
+{"email": "lucasblazzi@hotmail.com", "stocks": {"segment": "Propriedades", "recommendation": "buy", "dividend_yield_min": 0, "dividend_yield_max": 0.3, "return12m_min": 0, "return12m_max": 14.2}, "funds": {"rating": "AA", "adm_tax_min": 0, "adm_tax_max": 0.4}}
+*3
+$3
+SET
+$37
+{user.filter}.lucasblazzi@hotmail.com
+$260
+{"email": "lucasblazzi@hotmail.com", "stocks": {"segment": "Propriedades", "recommendation": "buy", "dividend_yield_min": 0, "dividend_yield_max": 0.3, "return12m_min": 0, "return12m_max": 14.2}, "funds": {"rating": "AA", "adm_tax_min": 0, "adm_tax_max": 0.4}}
+*35
+$4
+XADD
+$9
+/products
+$15
+1637003585688-0
+$4
+name
+$11
+São Carlos
+$4
+link
+$61
+https://www.btgpactualdigital.com/blog/area_de_analises/18622
+$16
+publication_date
+$10
+2021-11-14
+$8
+category
+$7
+Ações
+$6
+source
+$19
+BTG Pactual Digital
+$6
+ticker
+$5
+SCAR3
+$12
+target_price
+$6
+4200.0
+$7
+segment
+$12
+Propriedades
+$14
+recommendation
+$6
+NEUTRO
+$11
+description
+$2595
+<strong>Resultado 3T21</strong><br />
+<br />
+<strong>O FFO foi de R$ 17 milhões (-13% a/a), em linha com nossas expectativas</strong><br />
+<br />
+Como esperado, a São Carlos reportou resultados fracos no 3T21, ficando em linha com nossas estimativas. A receita líquida totalizou R$ 61 milhões (+ 2% a/a; 2% abaixo de nossas projeções), uma vez que as adições de ABL compensaram a maior vacância no segmento de escritórios. O Ebitda ajustado ficou em R$ 43 milhões (-8% a/a; em linha com nossa projeção) com uma margem de 67% (-770 bps a/a; +130 bps acima de nós). O FFO totalizou R$ 17 milhões (-13% a/a; correspondendo às nossas expectativas) e o LPA foi de R$ 0,30/ação (exatamente nossa projeção).<br />
+<br />
+<strong>Escritórios enfrentam maior vacância; Best Center continua aumentando as vendas</strong><br />
+<br />
+Vimos resultados mistos nos segmentos de escritórios e varejo (Best Center), mais uma vez, uma vez que: (i) os escritórios registraram um aumento na taxa de vacância de 410 bps t/t para 26,7%, refletindo o término de aluguéis em alguns edifícios no Rio; e (ii) Best Center apresentou crescimento de SSS de +9,3% a/a e SSR de +20,0% a/a, enquanto reduzia sua taxa de vacância para 8,9% (-440 bps a/a; -120 bps t/t). Por outro lado, a empresa está programada para executar os trabalhos de retrofit na propriedade multifamiliar GO850 recentemente adquirida.<br />
+<br />
+<strong>A São Carlos tem atuado em fusões e aquisições</strong><br />
+<br />
+A São Carlos tem se envolvido em muitas fusões e aquisições no setor recentemente, incluindo outros segmentos além de edifícios de escritórios: (i) em julho, a São Carlos comprou um imóvel multifamiliar; e (ii) em agosto, adquiriu um grande portfólio de varejo. Essas fusões e aquisições têm sido cumulativas para a empresa e marcam sua entrada em novos mercados, que consideramos positivos para a empresa.<br />
+<br />
+<strong>O 3T21 foi quase sem intercorrências; Classificação neutra (22x P/FFO 2022E)</strong><br />
+<br />
+Em nossa opinião, os resultados trimestrais ficaram em linha com as expectativas (o Ebitda e o FFO ajustados foram semelhantes às nossas projeções e a vacância de escritórios manteve-se elevada, conforme o esperado). Portanto, esperamos uma reação neutra do mercado aos resultados do 3T21 e mantemos nosso rating Neutro sobre as ações devido à falta de dinâmica de curto prazo (baixa demanda por escritórios e aumento das taxas de juros) e os múltiplos de avaliação um tanto elevados (negociando a 22x P/FFO 2022E).
+$14
+dividend_yield
+$18
+0.9333755373954773
+$17
+mean_daily_return
+$21
+-0.006919365841895342
+$17
+mean_daily_volume
+$16
+10781.8564453125
+$11
+forecast12m
+$19
+0.41999998688697815
+$9
+return12m
+$18
+-6.688549518585205
+$5
+price
+$4
+36.5
+*35
+$4
+XADD
+$9
+/products
+$15
+1637003644350-0
+$4
+name
+$11
+São Carlos
+$4
+link
+$61
+https://www.btgpactualdigital.com/blog/area_de_analises/18622
+$16
+publication_date
+$10
+2021-11-14
+$8
+category
+$7
+Ações
+$6
+source
+$19
+BTG Pactual Digital
+$6
+ticker
+$5
+SCAR3
+$12
+target_price
+$6
+4200.0
+$7
+segment
+$12
+Propriedades
+$14
+recommendation
+$6
+NEUTRO
+$11
+description
+$2595
+<strong>Resultado 3T21</strong><br />
+<br />
+<strong>O FFO foi de R$ 17 milhões (-13% a/a), em linha com nossas expectativas</strong><br />
+<br />
+Como esperado, a São Carlos reportou resultados fracos no 3T21, ficando em linha com nossas estimativas. A receita líquida totalizou R$ 61 milhões (+ 2% a/a; 2% abaixo de nossas projeções), uma vez que as adições de ABL compensaram a maior vacância no segmento de escritórios. O Ebitda ajustado ficou em R$ 43 milhões (-8% a/a; em linha com nossa projeção) com uma margem de 67% (-770 bps a/a; +130 bps acima de nós). O FFO totalizou R$ 17 milhões (-13% a/a; correspondendo às nossas expectativas) e o LPA foi de R$ 0,30/ação (exatamente nossa projeção).<br />
+<br />
+<strong>Escritórios enfrentam maior vacância; Best Center continua aumentando as vendas</strong><br />
+<br />
+Vimos resultados mistos nos segmentos de escritórios e varejo (Best Center), mais uma vez, uma vez que: (i) os escritórios registraram um aumento na taxa de vacância de 410 bps t/t para 26,7%, refletindo o término de aluguéis em alguns edifícios no Rio; e (ii) Best Center apresentou crescimento de SSS de +9,3% a/a e SSR de +20,0% a/a, enquanto reduzia sua taxa de vacância para 8,9% (-440 bps a/a; -120 bps t/t). Por outro lado, a empresa está programada para executar os trabalhos de retrofit na propriedade multifamiliar GO850 recentemente adquirida.<br />
+<br />
+<strong>A São Carlos tem atuado em fusões e aquisições</strong><br />
+<br />
+A São Carlos tem se envolvido em muitas fusões e aquisições no setor recentemente, incluindo outros segmentos além de edifícios de escritórios: (i) em julho, a São Carlos comprou um imóvel multifamiliar; e (ii) em agosto, adquiriu um grande portfólio de varejo. Essas fusões e aquisições têm sido cumulativas para a empresa e marcam sua entrada em novos mercados, que consideramos positivos para a empresa.<br />
+<br />
+<strong>O 3T21 foi quase sem intercorrências; Classificação neutra (22x P/FFO 2022E)</strong><br />
+<br />
+Em nossa opinião, os resultados trimestrais ficaram em linha com as expectativas (o Ebitda e o FFO ajustados foram semelhantes às nossas projeções e a vacância de escritórios manteve-se elevada, conforme o esperado). Portanto, esperamos uma reação neutra do mercado aos resultados do 3T21 e mantemos nosso rating Neutro sobre as ações devido à falta de dinâmica de curto prazo (baixa demanda por escritórios e aumento das taxas de juros) e os múltiplos de avaliação um tanto elevados (negociando a 22x P/FFO 2022E).
+$14
+dividend_yield
+$18
+0.9333755373954773
+$17
+mean_daily_return
+$21
+-0.006919365841895342
+$17
+mean_daily_volume
+$16
+10781.8564453125
+$11
+forecast12m
+$19
+0.41999998688697815
+$9
+return12m
+$18
+-6.688549518585205
+$5
+price
+$4
+36.5
+*35
+$4
+XADD
+$9
+/products
+$15
+1637003655470-0
+$4
+name
+$11
+São Carlos
+$4
+link
+$61
+https://www.btgpactualdigital.com/blog/area_de_analises/18622
+$16
+publication_date
+$10
+2021-11-14
+$8
+category
+$7
+Ações
+$6
+source
+$19
+BTG Pactual Digital
+$6
+ticker
+$5
+SCAR3
+$12
+target_price
+$6
+4200.0
+$7
+segment
+$12
+Propriedades
+$14
+recommendation
+$6
+NEUTRO
+$11
+description
+$2595
+<strong>Resultado 3T21</strong><br />
+<br />
+<strong>O FFO foi de R$ 17 milhões (-13% a/a), em linha com nossas expectativas</strong><br />
+<br />
+Como esperado, a São Carlos reportou resultados fracos no 3T21, ficando em linha com nossas estimativas. A receita líquida totalizou R$ 61 milhões (+ 2% a/a; 2% abaixo de nossas projeções), uma vez que as adições de ABL compensaram a maior vacância no segmento de escritórios. O Ebitda ajustado ficou em R$ 43 milhões (-8% a/a; em linha com nossa projeção) com uma margem de 67% (-770 bps a/a; +130 bps acima de nós). O FFO totalizou R$ 17 milhões (-13% a/a; correspondendo às nossas expectativas) e o LPA foi de R$ 0,30/ação (exatamente nossa projeção).<br />
+<br />
+<strong>Escritórios enfrentam maior vacância; Best Center continua aumentando as vendas</strong><br />
+<br />
+Vimos resultados mistos nos segmentos de escritórios e varejo (Best Center), mais uma vez, uma vez que: (i) os escritórios registraram um aumento na taxa de vacância de 410 bps t/t para 26,7%, refletindo o término de aluguéis em alguns edifícios no Rio; e (ii) Best Center apresentou crescimento de SSS de +9,3% a/a e SSR de +20,0% a/a, enquanto reduzia sua taxa de vacância para 8,9% (-440 bps a/a; -120 bps t/t). Por outro lado, a empresa está programada para executar os trabalhos de retrofit na propriedade multifamiliar GO850 recentemente adquirida.<br />
+<br />
+<strong>A São Carlos tem atuado em fusões e aquisições</strong><br />
+<br />
+A São Carlos tem se envolvido em muitas fusões e aquisições no setor recentemente, incluindo outros segmentos além de edifícios de escritórios: (i) em julho, a São Carlos comprou um imóvel multifamiliar; e (ii) em agosto, adquiriu um grande portfólio de varejo. Essas fusões e aquisições têm sido cumulativas para a empresa e marcam sua entrada em novos mercados, que consideramos positivos para a empresa.<br />
+<br />
+<strong>O 3T21 foi quase sem intercorrências; Classificação neutra (22x P/FFO 2022E)</strong><br />
+<br />
+Em nossa opinião, os resultados trimestrais ficaram em linha com as expectativas (o Ebitda e o FFO ajustados foram semelhantes às nossas projeções e a vacância de escritórios manteve-se elevada, conforme o esperado). Portanto, esperamos uma reação neutra do mercado aos resultados do 3T21 e mantemos nosso rating Neutro sobre as ações devido à falta de dinâmica de curto prazo (baixa demanda por escritórios e aumento das taxas de juros) e os múltiplos de avaliação um tanto elevados (negociando a 22x P/FFO 2022E).
+$14
+dividend_yield
+$18
+0.9333755373954773
+$17
+mean_daily_return
+$21
+-0.006919365841895342
+$17
+mean_daily_volume
+$16
+10781.8564453125
+$11
+forecast12m
+$19
+0.41999998688697815
+$9
+return12m
+$18
+-6.688549518585205
+$5
+price
+$4
+36.5
+*35
+$4
+XADD
+$8
+products
+$15
+1637003909939-0
+$4
+name
+$11
+São Carlos
+$4
+link
+$61
+https://www.btgpactualdigital.com/blog/area_de_analises/18622
+$16
+publication_date
+$10
+2021-11-14
+$8
+category
+$7
+Ações
+$6
+source
+$19
+BTG Pactual Digital
+$6
+ticker
+$5
+SCAR3
+$12
+target_price
+$6
+4200.0
+$7
+segment
+$12
+Propriedades
+$14
+recommendation
+$6
+NEUTRO
+$11
+description
+$2595
+<strong>Resultado 3T21</strong><br />
+<br />
+<strong>O FFO foi de R$ 17 milhões (-13% a/a), em linha com nossas expectativas</strong><br />
+<br />
+Como esperado, a São Carlos reportou resultados fracos no 3T21, ficando em linha com nossas estimativas. A receita líquida totalizou R$ 61 milhões (+ 2% a/a; 2% abaixo de nossas projeções), uma vez que as adições de ABL compensaram a maior vacância no segmento de escritórios. O Ebitda ajustado ficou em R$ 43 milhões (-8% a/a; em linha com nossa projeção) com uma margem de 67% (-770 bps a/a; +130 bps acima de nós). O FFO totalizou R$ 17 milhões (-13% a/a; correspondendo às nossas expectativas) e o LPA foi de R$ 0,30/ação (exatamente nossa projeção).<br />
+<br />
+<strong>Escritórios enfrentam maior vacância; Best Center continua aumentando as vendas</strong><br />
+<br />
+Vimos resultados mistos nos segmentos de escritórios e varejo (Best Center), mais uma vez, uma vez que: (i) os escritórios registraram um aumento na taxa de vacância de 410 bps t/t para 26,7%, refletindo o término de aluguéis em alguns edifícios no Rio; e (ii) Best Center apresentou crescimento de SSS de +9,3% a/a e SSR de +20,0% a/a, enquanto reduzia sua taxa de vacância para 8,9% (-440 bps a/a; -120 bps t/t). Por outro lado, a empresa está programada para executar os trabalhos de retrofit na propriedade multifamiliar GO850 recentemente adquirida.<br />
+<br />
+<strong>A São Carlos tem atuado em fusões e aquisições</strong><br />
+<br />
+A São Carlos tem se envolvido em muitas fusões e aquisições no setor recentemente, incluindo outros segmentos além de edifícios de escritórios: (i) em julho, a São Carlos comprou um imóvel multifamiliar; e (ii) em agosto, adquiriu um grande portfólio de varejo. Essas fusões e aquisições têm sido cumulativas para a empresa e marcam sua entrada em novos mercados, que consideramos positivos para a empresa.<br />
+<br />
+<strong>O 3T21 foi quase sem intercorrências; Classificação neutra (22x P/FFO 2022E)</strong><br />
+<br />
+Em nossa opinião, os resultados trimestrais ficaram em linha com as expectativas (o Ebitda e o FFO ajustados foram semelhantes às nossas projeções e a vacância de escritórios manteve-se elevada, conforme o esperado). Portanto, esperamos uma reação neutra do mercado aos resultados do 3T21 e mantemos nosso rating Neutro sobre as ações devido à falta de dinâmica de curto prazo (baixa demanda por escritórios e aumento das taxas de juros) e os múltiplos de avaliação um tanto elevados (negociando a 22x P/FFO 2022E).
+$14
+dividend_yield
+$18
+0.9333755373954773
+$17
+mean_daily_return
+$21
+-0.006919365841895342
+$17
+mean_daily_volume
+$16
+10781.8564453125
+$11
+forecast12m
+$19
+0.41999998688697815
+$9
+return12m
+$18
+-6.688549518585205
+$5
+price
+$4
+36.5
+*35
+$4
+XADD
+$8
+products
+$15
+1637003954992-0
+$4
+name
+$11
+São Carlos
+$4
+link
+$61
+https://www.btgpactualdigital.com/blog/area_de_analises/18622
+$16
+publication_date
+$10
+2021-11-14
+$8
+category
+$7
+Ações
+$6
+source
+$19
+BTG Pactual Digital
+$6
+ticker
+$5
+SCAR3
+$12
+target_price
+$6
+4200.0
+$7
+segment
+$12
+Propriedades
+$14
+recommendation
+$6
+NEUTRO
+$11
+description
+$2595
+<strong>Resultado 3T21</strong><br />
+<br />
+<strong>O FFO foi de R$ 17 milhões (-13% a/a), em linha com nossas expectativas</strong><br />
+<br />
+Como esperado, a São Carlos reportou resultados fracos no 3T21, ficando em linha com nossas estimativas. A receita líquida totalizou R$ 61 milhões (+ 2% a/a; 2% abaixo de nossas projeções), uma vez que as adições de ABL compensaram a maior vacância no segmento de escritórios. O Ebitda ajustado ficou em R$ 43 milhões (-8% a/a; em linha com nossa projeção) com uma margem de 67% (-770 bps a/a; +130 bps acima de nós). O FFO totalizou R$ 17 milhões (-13% a/a; correspondendo às nossas expectativas) e o LPA foi de R$ 0,30/ação (exatamente nossa projeção).<br />
+<br />
+<strong>Escritórios enfrentam maior vacância; Best Center continua aumentando as vendas</strong><br />
+<br />
+Vimos resultados mistos nos segmentos de escritórios e varejo (Best Center), mais uma vez, uma vez que: (i) os escritórios registraram um aumento na taxa de vacância de 410 bps t/t para 26,7%, refletindo o término de aluguéis em alguns edifícios no Rio; e (ii) Best Center apresentou crescimento de SSS de +9,3% a/a e SSR de +20,0% a/a, enquanto reduzia sua taxa de vacância para 8,9% (-440 bps a/a; -120 bps t/t). Por outro lado, a empresa está programada para executar os trabalhos de retrofit na propriedade multifamiliar GO850 recentemente adquirida.<br />
+<br />
+<strong>A São Carlos tem atuado em fusões e aquisições</strong><br />
+<br />
+A São Carlos tem se envolvido em muitas fusões e aquisições no setor recentemente, incluindo outros segmentos além de edifícios de escritórios: (i) em julho, a São Carlos comprou um imóvel multifamiliar; e (ii) em agosto, adquiriu um grande portfólio de varejo. Essas fusões e aquisições têm sido cumulativas para a empresa e marcam sua entrada em novos mercados, que consideramos positivos para a empresa.<br />
+<br />
+<strong>O 3T21 foi quase sem intercorrências; Classificação neutra (22x P/FFO 2022E)</strong><br />
+<br />
+Em nossa opinião, os resultados trimestrais ficaram em linha com as expectativas (o Ebitda e o FFO ajustados foram semelhantes às nossas projeções e a vacância de escritórios manteve-se elevada, conforme o esperado). Portanto, esperamos uma reação neutra do mercado aos resultados do 3T21 e mantemos nosso rating Neutro sobre as ações devido à falta de dinâmica de curto prazo (baixa demanda por escritórios e aumento das taxas de juros) e os múltiplos de avaliação um tanto elevados (negociando a 22x P/FFO 2022E).
+$14
+dividend_yield
+$18
+0.9333755373954773
+$17
+mean_daily_return
+$21
+-0.006919365841895342
+$17
+mean_daily_volume
+$16
+10781.8564453125
+$11
+forecast12m
+$19
+0.41999998688697815
+$9
+return12m
+$18
+-6.688549518585205
+$5
+price
+$4
+36.5
+*3
+$3
+SET
+$37
+{user.filter}.lucasblazzi@hotmail.com
+$260
+{"email": "lucasblazzi@hotmail.com", "stocks": {"segment": "Propriedades", "recommendation": "buy", "dividend_yield_min": 0, "dividend_yield_max": 0.3, "return12m_min": 0, "return12m_max": 14.2}, "funds": {"rating": "AA", "adm_tax_min": 0, "adm_tax_max": 0.4}}
+*35
+$4
+XADD
+$8
+products
+$15
+1637004076957-0
+$4
+name
+$11
+São Carlos
+$4
+link
+$61
+https://www.btgpactualdigital.com/blog/area_de_analises/18622
+$16
+publication_date
+$10
+2021-11-14
+$8
+category
+$7
+Ações
+$6
+source
+$19
+BTG Pactual Digital
+$6
+ticker
+$5
+SCAR3
+$12
+target_price
+$6
+4200.0
+$7
+segment
+$12
+Propriedades
+$14
+recommendation
+$6
+NEUTRO
+$11
+description
+$2595
+<strong>Resultado 3T21</strong><br />
+<br />
+<strong>O FFO foi de R$ 17 milhões (-13% a/a), em linha com nossas expectativas</strong><br />
+<br />
+Como esperado, a São Carlos reportou resultados fracos no 3T21, ficando em linha com nossas estimativas. A receita líquida totalizou R$ 61 milhões (+ 2% a/a; 2% abaixo de nossas projeções), uma vez que as adições de ABL compensaram a maior vacância no segmento de escritórios. O Ebitda ajustado ficou em R$ 43 milhões (-8% a/a; em linha com nossa projeção) com uma margem de 67% (-770 bps a/a; +130 bps acima de nós). O FFO totalizou R$ 17 milhões (-13% a/a; correspondendo às nossas expectativas) e o LPA foi de R$ 0,30/ação (exatamente nossa projeção).<br />
+<br />
+<strong>Escritórios enfrentam maior vacância; Best Center continua aumentando as vendas</strong><br />
+<br />
+Vimos resultados mistos nos segmentos de escritórios e varejo (Best Center), mais uma vez, uma vez que: (i) os escritórios registraram um aumento na taxa de vacância de 410 bps t/t para 26,7%, refletindo o término de aluguéis em alguns edifícios no Rio; e (ii) Best Center apresentou crescimento de SSS de +9,3% a/a e SSR de +20,0% a/a, enquanto reduzia sua taxa de vacância para 8,9% (-440 bps a/a; -120 bps t/t). Por outro lado, a empresa está programada para executar os trabalhos de retrofit na propriedade multifamiliar GO850 recentemente adquirida.<br />
+<br />
+<strong>A São Carlos tem atuado em fusões e aquisições</strong><br />
+<br />
+A São Carlos tem se envolvido em muitas fusões e aquisições no setor recentemente, incluindo outros segmentos além de edifícios de escritórios: (i) em julho, a São Carlos comprou um imóvel multifamiliar; e (ii) em agosto, adquiriu um grande portfólio de varejo. Essas fusões e aquisições têm sido cumulativas para a empresa e marcam sua entrada em novos mercados, que consideramos positivos para a empresa.<br />
+<br />
+<strong>O 3T21 foi quase sem intercorrências; Classificação neutra (22x P/FFO 2022E)</strong><br />
+<br />
+Em nossa opinião, os resultados trimestrais ficaram em linha com as expectativas (o Ebitda e o FFO ajustados foram semelhantes às nossas projeções e a vacância de escritórios manteve-se elevada, conforme o esperado). Portanto, esperamos uma reação neutra do mercado aos resultados do 3T21 e mantemos nosso rating Neutro sobre as ações devido à falta de dinâmica de curto prazo (baixa demanda por escritórios e aumento das taxas de juros) e os múltiplos de avaliação um tanto elevados (negociando a 22x P/FFO 2022E).
+$14
+dividend_yield
+$18
+0.9333755373954773
+$17
+mean_daily_return
+$21
+-0.006919365841895342
+$17
+mean_daily_volume
+$16
+10781.8564453125
+$11
+forecast12m
+$19
+0.41999998688697815
+$9
+return12m
+$18
+-6.688549518585205
+$5
+price
+$4
+36.5
+*2
+$6
+SELECT
+$1
+0
+*3
+$3
+SET
+$37
+{user.filter}.lucasblazzi@hotmail.com
+$260
+{"email": "lucasblazzi@hotmail.com", "stocks": {"segment": "Propriedades", "recommendation": "buy", "dividend_yield_min": 0, "dividend_yield_max": 0.3, "return12m_min": 0, "return12m_max": 14.2}, "funds": {"rating": "AA", "adm_tax_min": 0, "adm_tax_max": 0.4}}
+*3
+$3
+SET
+$37
+{user.filter}.lucasblazzi@hotmail.com
+$260
+{"email": "lucasblazzi@hotmail.com", "stocks": {"segment": "Propriedades", "recommendation": "buy", "dividend_yield_min": 0, "dividend_yield_max": 0.3, "return12m_min": 0, "return12m_max": 14.2}, "funds": {"rating": "AA", "adm_tax_min": 0, "adm_tax_max": 0.4}}
+*3
+$3
+SET
+$37
+{user.filter}.lucasblazzi@hotmail.com
+$260
+{"email": "lucasblazzi@hotmail.com", "stocks": {"segment": "Propriedades", "recommendation": "buy", "dividend_yield_min": 0, "dividend_yield_max": 0.3, "return12m_min": 0, "return12m_max": 14.2}, "funds": {"rating": "AA", "adm_tax_min": 0, "adm_tax_max": 0.4}}
+*3
+$3
+SET
+$37
+{user.filter}.lucasblazzi@hotmail.com
+$260
+{"email": "lucasblazzi@hotmail.com", "stocks": {"segment": "Propriedades", "recommendation": "buy", "dividend_yield_min": 0, "dividend_yield_max": 0.3, "return12m_min": 0, "return12m_max": 14.2}, "funds": {"rating": "AA", "adm_tax_min": 0, "adm_tax_max": 0.4}}
+*35
+$4
+XADD
+$8
+products
+$15
+1637004598624-0
+$4
+name
+$11
+São Carlos
+$4
+link
+$61
+https://www.btgpactualdigital.com/blog/area_de_analises/18622
+$16
+publication_date
+$10
+2021-11-14
+$8
+category
+$7
+Ações
+$6
+source
+$19
+BTG Pactual Digital
+$6
+ticker
+$5
+SCAR3
+$12
+target_price
+$6
+4200.0
+$7
+segment
+$12
+Propriedades
+$14
+recommendation
+$6
+NEUTRO
+$11
+description
+$2595
+<strong>Resultado 3T21</strong><br />
+<br />
+<strong>O FFO foi de R$ 17 milhões (-13% a/a), em linha com nossas expectativas</strong><br />
+<br />
+Como esperado, a São Carlos reportou resultados fracos no 3T21, ficando em linha com nossas estimativas. A receita líquida totalizou R$ 61 milhões (+ 2% a/a; 2% abaixo de nossas projeções), uma vez que as adições de ABL compensaram a maior vacância no segmento de escritórios. O Ebitda ajustado ficou em R$ 43 milhões (-8% a/a; em linha com nossa projeção) com uma margem de 67% (-770 bps a/a; +130 bps acima de nós). O FFO totalizou R$ 17 milhões (-13% a/a; correspondendo às nossas expectativas) e o LPA foi de R$ 0,30/ação (exatamente nossa projeção).<br />
+<br />
+<strong>Escritórios enfrentam maior vacância; Best Center continua aumentando as vendas</strong><br />
+<br />
+Vimos resultados mistos nos segmentos de escritórios e varejo (Best Center), mais uma vez, uma vez que: (i) os escritórios registraram um aumento na taxa de vacância de 410 bps t/t para 26,7%, refletindo o término de aluguéis em alguns edifícios no Rio; e (ii) Best Center apresentou crescimento de SSS de +9,3% a/a e SSR de +20,0% a/a, enquanto reduzia sua taxa de vacância para 8,9% (-440 bps a/a; -120 bps t/t). Por outro lado, a empresa está programada para executar os trabalhos de retrofit na propriedade multifamiliar GO850 recentemente adquirida.<br />
+<br />
+<strong>A São Carlos tem atuado em fusões e aquisições</strong><br />
+<br />
+A São Carlos tem se envolvido em muitas fusões e aquisições no setor recentemente, incluindo outros segmentos além de edifícios de escritórios: (i) em julho, a São Carlos comprou um imóvel multifamiliar; e (ii) em agosto, adquiriu um grande portfólio de varejo. Essas fusões e aquisições têm sido cumulativas para a empresa e marcam sua entrada em novos mercados, que consideramos positivos para a empresa.<br />
+<br />
+<strong>O 3T21 foi quase sem intercorrências; Classificação neutra (22x P/FFO 2022E)</strong><br />
+<br />
+Em nossa opinião, os resultados trimestrais ficaram em linha com as expectativas (o Ebitda e o FFO ajustados foram semelhantes às nossas projeções e a vacância de escritórios manteve-se elevada, conforme o esperado). Portanto, esperamos uma reação neutra do mercado aos resultados do 3T21 e mantemos nosso rating Neutro sobre as ações devido à falta de dinâmica de curto prazo (baixa demanda por escritórios e aumento das taxas de juros) e os múltiplos de avaliação um tanto elevados (negociando a 22x P/FFO 2022E).
+$14
+dividend_yield
+$18
+0.9333755373954773
+$17
+mean_daily_return
+$21
+-0.006919365841895342
+$17
+mean_daily_volume
+$16
+10781.8564453125
+$11
+forecast12m
+$19
+0.41999998688697815
+$9
+return12m
+$18
+-6.688549518585205
+$5
+price
+$4
+36.5
+*3
+$3
+SET
+$37
+{user.filter}.lucasblazzi@hotmail.com
+$260
+{"email": "lucasblazzi@hotmail.com", "stocks": {"segment": "Propriedades", "recommendation": "buy", "dividend_yield_min": 0, "dividend_yield_max": 0.3, "return12m_min": 0, "return12m_max": 14.2}, "funds": {"rating": "AA", "adm_tax_min": 0, "adm_tax_max": 0.4}}
+*35
+$4
+XADD
+$8
+products
+$15
+1637004663853-0
+$4
+name
+$11
+São Carlos
+$4
+link
+$61
+https://www.btgpactualdigital.com/blog/area_de_analises/18622
+$16
+publication_date
+$10
+2021-11-14
+$8
+category
+$7
+Ações
+$6
+source
+$19
+BTG Pactual Digital
+$6
+ticker
+$5
+SCAR3
+$12
+target_price
+$6
+4200.0
+$7
+segment
+$12
+Propriedades
+$14
+recommendation
+$6
+NEUTRO
+$11
+description
+$2595
+<strong>Resultado 3T21</strong><br />
+<br />
+<strong>O FFO foi de R$ 17 milhões (-13% a/a), em linha com nossas expectativas</strong><br />
+<br />
+Como esperado, a São Carlos reportou resultados fracos no 3T21, ficando em linha com nossas estimativas. A receita líquida totalizou R$ 61 milhões (+ 2% a/a; 2% abaixo de nossas projeções), uma vez que as adições de ABL compensaram a maior vacância no segmento de escritórios. O Ebitda ajustado ficou em R$ 43 milhões (-8% a/a; em linha com nossa projeção) com uma margem de 67% (-770 bps a/a; +130 bps acima de nós). O FFO totalizou R$ 17 milhões (-13% a/a; correspondendo às nossas expectativas) e o LPA foi de R$ 0,30/ação (exatamente nossa projeção).<br />
+<br />
+<strong>Escritórios enfrentam maior vacância; Best Center continua aumentando as vendas</strong><br />
+<br />
+Vimos resultados mistos nos segmentos de escritórios e varejo (Best Center), mais uma vez, uma vez que: (i) os escritórios registraram um aumento na taxa de vacância de 410 bps t/t para 26,7%, refletindo o término de aluguéis em alguns edifícios no Rio; e (ii) Best Center apresentou crescimento de SSS de +9,3% a/a e SSR de +20,0% a/a, enquanto reduzia sua taxa de vacância para 8,9% (-440 bps a/a; -120 bps t/t). Por outro lado, a empresa está programada para executar os trabalhos de retrofit na propriedade multifamiliar GO850 recentemente adquirida.<br />
+<br />
+<strong>A São Carlos tem atuado em fusões e aquisições</strong><br />
+<br />
+A São Carlos tem se envolvido em muitas fusões e aquisições no setor recentemente, incluindo outros segmentos além de edifícios de escritórios: (i) em julho, a São Carlos comprou um imóvel multifamiliar; e (ii) em agosto, adquiriu um grande portfólio de varejo. Essas fusões e aquisições têm sido cumulativas para a empresa e marcam sua entrada em novos mercados, que consideramos positivos para a empresa.<br />
+<br />
+<strong>O 3T21 foi quase sem intercorrências; Classificação neutra (22x P/FFO 2022E)</strong><br />
+<br />
+Em nossa opinião, os resultados trimestrais ficaram em linha com as expectativas (o Ebitda e o FFO ajustados foram semelhantes às nossas projeções e a vacância de escritórios manteve-se elevada, conforme o esperado). Portanto, esperamos uma reação neutra do mercado aos resultados do 3T21 e mantemos nosso rating Neutro sobre as ações devido à falta de dinâmica de curto prazo (baixa demanda por escritórios e aumento das taxas de juros) e os múltiplos de avaliação um tanto elevados (negociando a 22x P/FFO 2022E).
+$14
+dividend_yield
+$18
+0.9333755373954773
+$17
+mean_daily_return
+$21
+-0.006919365841895342
+$17
+mean_daily_volume
+$16
+10781.8564453125
+$11
+forecast12m
+$19
+0.41999998688697815
+$9
+return12m
+$18
+-6.688549518585205
+$5
+price
+$4
+36.5
+*3
+$3
+SET
+$37
+{user.filter}.lucasblazzi@hotmail.com
+$260
+{"email": "lucasblazzi@hotmail.com", "stocks": {"segment": "Propriedades", "recommendation": "buy", "dividend_yield_min": 0, "dividend_yield_max": 0.3, "return12m_min": 0, "return12m_max": 14.2}, "funds": {"rating": "AA", "adm_tax_min": 0, "adm_tax_max": 0.4}}
+*35
+$4
+XADD
+$8
+products
+$15
+1637004740793-0
+$4
+name
+$11
+São Carlos
+$4
+link
+$61
+https://www.btgpactualdigital.com/blog/area_de_analises/18622
+$16
+publication_date
+$10
+2021-11-14
+$8
+category
+$7
+Ações
+$6
+source
+$19
+BTG Pactual Digital
+$6
+ticker
+$5
+SCAR3
+$12
+target_price
+$6
+4200.0
+$7
+segment
+$12
+Propriedades
+$14
+recommendation
+$6
+NEUTRO
+$11
+description
+$2595
+<strong>Resultado 3T21</strong><br />
+<br />
+<strong>O FFO foi de R$ 17 milhões (-13% a/a), em linha com nossas expectativas</strong><br />
+<br />
+Como esperado, a São Carlos reportou resultados fracos no 3T21, ficando em linha com nossas estimativas. A receita líquida totalizou R$ 61 milhões (+ 2% a/a; 2% abaixo de nossas projeções), uma vez que as adições de ABL compensaram a maior vacância no segmento de escritórios. O Ebitda ajustado ficou em R$ 43 milhões (-8% a/a; em linha com nossa projeção) com uma margem de 67% (-770 bps a/a; +130 bps acima de nós). O FFO totalizou R$ 17 milhões (-13% a/a; correspondendo às nossas expectativas) e o LPA foi de R$ 0,30/ação (exatamente nossa projeção).<br />
+<br />
+<strong>Escritórios enfrentam maior vacância; Best Center continua aumentando as vendas</strong><br />
+<br />
+Vimos resultados mistos nos segmentos de escritórios e varejo (Best Center), mais uma vez, uma vez que: (i) os escritórios registraram um aumento na taxa de vacância de 410 bps t/t para 26,7%, refletindo o término de aluguéis em alguns edifícios no Rio; e (ii) Best Center apresentou crescimento de SSS de +9,3% a/a e SSR de +20,0% a/a, enquanto reduzia sua taxa de vacância para 8,9% (-440 bps a/a; -120 bps t/t). Por outro lado, a empresa está programada para executar os trabalhos de retrofit na propriedade multifamiliar GO850 recentemente adquirida.<br />
+<br />
+<strong>A São Carlos tem atuado em fusões e aquisições</strong><br />
+<br />
+A São Carlos tem se envolvido em muitas fusões e aquisições no setor recentemente, incluindo outros segmentos além de edifícios de escritórios: (i) em julho, a São Carlos comprou um imóvel multifamiliar; e (ii) em agosto, adquiriu um grande portfólio de varejo. Essas fusões e aquisições têm sido cumulativas para a empresa e marcam sua entrada em novos mercados, que consideramos positivos para a empresa.<br />
+<br />
+<strong>O 3T21 foi quase sem intercorrências; Classificação neutra (22x P/FFO 2022E)</strong><br />
+<br />
+Em nossa opinião, os resultados trimestrais ficaram em linha com as expectativas (o Ebitda e o FFO ajustados foram semelhantes às nossas projeções e a vacância de escritórios manteve-se elevada, conforme o esperado). Portanto, esperamos uma reação neutra do mercado aos resultados do 3T21 e mantemos nosso rating Neutro sobre as ações devido à falta de dinâmica de curto prazo (baixa demanda por escritórios e aumento das taxas de juros) e os múltiplos de avaliação um tanto elevados (negociando a 22x P/FFO 2022E).
+$14
+dividend_yield
+$18
+0.9333755373954773
+$17
+mean_daily_return
+$21
+-0.006919365841895342
+$17
+mean_daily_volume
+$16
+10781.8564453125
+$11
+forecast12m
+$19
+0.41999998688697815
+$9
+return12m
+$18
+-6.688549518585205
+$5
+price
+$4
+36.5
+*3
+$3
+SET
+$37
+{user.filter}.lucasblazzi@hotmail.com
+$260
+{"email": "lucasblazzi@hotmail.com", "stocks": {"segment": "Propriedades", "recommendation": "buy", "dividend_yield_min": 0, "dividend_yield_max": 0.3, "return12m_min": 0, "return12m_max": 14.2}, "funds": {"rating": "AA", "adm_tax_min": 0, "adm_tax_max": 0.4}}
+*35
+$4
+XADD
+$8
+products
+$15
+1637004815130-0
+$4
+name
+$11
+São Carlos
+$4
+link
+$61
+https://www.btgpactualdigital.com/blog/area_de_analises/18622
+$16
+publication_date
+$10
+2021-11-14
+$8
+category
+$7
+Ações
+$6
+source
+$19
+BTG Pactual Digital
+$6
+ticker
+$5
+SCAR3
+$12
+target_price
+$6
+4200.0
+$7
+segment
+$12
+Propriedades
+$14
+recommendation
+$6
+NEUTRO
+$11
+description
+$2595
+<strong>Resultado 3T21</strong><br />
+<br />
+<strong>O FFO foi de R$ 17 milhões (-13% a/a), em linha com nossas expectativas</strong><br />
+<br />
+Como esperado, a São Carlos reportou resultados fracos no 3T21, ficando em linha com nossas estimativas. A receita líquida totalizou R$ 61 milhões (+ 2% a/a; 2% abaixo de nossas projeções), uma vez que as adições de ABL compensaram a maior vacância no segmento de escritórios. O Ebitda ajustado ficou em R$ 43 milhões (-8% a/a; em linha com nossa projeção) com uma margem de 67% (-770 bps a/a; +130 bps acima de nós). O FFO totalizou R$ 17 milhões (-13% a/a; correspondendo às nossas expectativas) e o LPA foi de R$ 0,30/ação (exatamente nossa projeção).<br />
+<br />
+<strong>Escritórios enfrentam maior vacância; Best Center continua aumentando as vendas</strong><br />
+<br />
+Vimos resultados mistos nos segmentos de escritórios e varejo (Best Center), mais uma vez, uma vez que: (i) os escritórios registraram um aumento na taxa de vacância de 410 bps t/t para 26,7%, refletindo o término de aluguéis em alguns edifícios no Rio; e (ii) Best Center apresentou crescimento de SSS de +9,3% a/a e SSR de +20,0% a/a, enquanto reduzia sua taxa de vacância para 8,9% (-440 bps a/a; -120 bps t/t). Por outro lado, a empresa está programada para executar os trabalhos de retrofit na propriedade multifamiliar GO850 recentemente adquirida.<br />
+<br />
+<strong>A São Carlos tem atuado em fusões e aquisições</strong><br />
+<br />
+A São Carlos tem se envolvido em muitas fusões e aquisições no setor recentemente, incluindo outros segmentos além de edifícios de escritórios: (i) em julho, a São Carlos comprou um imóvel multifamiliar; e (ii) em agosto, adquiriu um grande portfólio de varejo. Essas fusões e aquisições têm sido cumulativas para a empresa e marcam sua entrada em novos mercados, que consideramos positivos para a empresa.<br />
+<br />
+<strong>O 3T21 foi quase sem intercorrências; Classificação neutra (22x P/FFO 2022E)</strong><br />
+<br />
+Em nossa opinião, os resultados trimestrais ficaram em linha com as expectativas (o Ebitda e o FFO ajustados foram semelhantes às nossas projeções e a vacância de escritórios manteve-se elevada, conforme o esperado). Portanto, esperamos uma reação neutra do mercado aos resultados do 3T21 e mantemos nosso rating Neutro sobre as ações devido à falta de dinâmica de curto prazo (baixa demanda por escritórios e aumento das taxas de juros) e os múltiplos de avaliação um tanto elevados (negociando a 22x P/FFO 2022E).
+$14
+dividend_yield
+$18
+0.9333755373954773
+$17
+mean_daily_return
+$21
+-0.006919365841895342
+$17
+mean_daily_volume
+$16
+10781.8564453125
+$11
+forecast12m
+$19
+0.41999998688697815
+$9
+return12m
+$18
+-6.688549518585205
+$5
+price
+$4
+36.5
+*35
+$4
+XADD
+$8
+products
+$15
+1637004960302-0
+$4
+name
+$11
+São Carlos
+$4
+link
+$61
+https://www.btgpactualdigital.com/blog/area_de_analises/18622
+$16
+publication_date
+$10
+2021-11-14
+$8
+category
+$7
+Ações
+$6
+source
+$19
+BTG Pactual Digital
+$6
+ticker
+$5
+SCAR3
+$12
+target_price
+$6
+4200.0
+$7
+segment
+$12
+Propriedades
+$14
+recommendation
+$6
+NEUTRO
+$11
+description
+$2595
+<strong>Resultado 3T21</strong><br />
+<br />
+<strong>O FFO foi de R$ 17 milhões (-13% a/a), em linha com nossas expectativas</strong><br />
+<br />
+Como esperado, a São Carlos reportou resultados fracos no 3T21, ficando em linha com nossas estimativas. A receita líquida totalizou R$ 61 milhões (+ 2% a/a; 2% abaixo de nossas projeções), uma vez que as adições de ABL compensaram a maior vacância no segmento de escritórios. O Ebitda ajustado ficou em R$ 43 milhões (-8% a/a; em linha com nossa projeção) com uma margem de 67% (-770 bps a/a; +130 bps acima de nós). O FFO totalizou R$ 17 milhões (-13% a/a; correspondendo às nossas expectativas) e o LPA foi de R$ 0,30/ação (exatamente nossa projeção).<br />
+<br />
+<strong>Escritórios enfrentam maior vacância; Best Center continua aumentando as vendas</strong><br />
+<br />
+Vimos resultados mistos nos segmentos de escritórios e varejo (Best Center), mais uma vez, uma vez que: (i) os escritórios registraram um aumento na taxa de vacância de 410 bps t/t para 26,7%, refletindo o término de aluguéis em alguns edifícios no Rio; e (ii) Best Center apresentou crescimento de SSS de +9,3% a/a e SSR de +20,0% a/a, enquanto reduzia sua taxa de vacância para 8,9% (-440 bps a/a; -120 bps t/t). Por outro lado, a empresa está programada para executar os trabalhos de retrofit na propriedade multifamiliar GO850 recentemente adquirida.<br />
+<br />
+<strong>A São Carlos tem atuado em fusões e aquisições</strong><br />
+<br />
+A São Carlos tem se envolvido em muitas fusões e aquisições no setor recentemente, incluindo outros segmentos além de edifícios de escritórios: (i) em julho, a São Carlos comprou um imóvel multifamiliar; e (ii) em agosto, adquiriu um grande portfólio de varejo. Essas fusões e aquisições têm sido cumulativas para a empresa e marcam sua entrada em novos mercados, que consideramos positivos para a empresa.<br />
+<br />
+<strong>O 3T21 foi quase sem intercorrências; Classificação neutra (22x P/FFO 2022E)</strong><br />
+<br />
+Em nossa opinião, os resultados trimestrais ficaram em linha com as expectativas (o Ebitda e o FFO ajustados foram semelhantes às nossas projeções e a vacância de escritórios manteve-se elevada, conforme o esperado). Portanto, esperamos uma reação neutra do mercado aos resultados do 3T21 e mantemos nosso rating Neutro sobre as ações devido à falta de dinâmica de curto prazo (baixa demanda por escritórios e aumento das taxas de juros) e os múltiplos de avaliação um tanto elevados (negociando a 22x P/FFO 2022E).
+$14
+dividend_yield
+$18
+0.9333755373954773
+$17
+mean_daily_return
+$21
+-0.006919365841895342
+$17
+mean_daily_volume
+$16
+10781.8564453125
+$11
+forecast12m
+$19
+0.41999998688697815
+$9
+return12m
+$18
+-6.688549518585205
+$5
+price
+$4
+36.5
+*3
+$3
+SET
+$37
+{user.filter}.lucasblazzi@hotmail.com
+$260
+{"email": "lucasblazzi@hotmail.com", "stocks": {"segment": "Propriedades", "recommendation": "buy", "dividend_yield_min": 0, "dividend_yield_max": 0.3, "return12m_min": 0, "return12m_max": 14.2}, "funds": {"rating": "AA", "adm_tax_min": 0, "adm_tax_max": 0.4}}
+*35
+$4
+XADD
+$8
+products
+$15
+1637004978074-0
+$4
+name
+$11
+São Carlos
+$4
+link
+$61
+https://www.btgpactualdigital.com/blog/area_de_analises/18622
+$16
+publication_date
+$10
+2021-11-14
+$8
+category
+$7
+Ações
+$6
+source
+$19
+BTG Pactual Digital
+$6
+ticker
+$5
+SCAR3
+$12
+target_price
+$6
+4200.0
+$7
+segment
+$12
+Propriedades
+$14
+recommendation
+$6
+NEUTRO
+$11
+description
+$2595
+<strong>Resultado 3T21</strong><br />
+<br />
+<strong>O FFO foi de R$ 17 milhões (-13% a/a), em linha com nossas expectativas</strong><br />
+<br />
+Como esperado, a São Carlos reportou resultados fracos no 3T21, ficando em linha com nossas estimativas. A receita líquida totalizou R$ 61 milhões (+ 2% a/a; 2% abaixo de nossas projeções), uma vez que as adições de ABL compensaram a maior vacância no segmento de escritórios. O Ebitda ajustado ficou em R$ 43 milhões (-8% a/a; em linha com nossa projeção) com uma margem de 67% (-770 bps a/a; +130 bps acima de nós). O FFO totalizou R$ 17 milhões (-13% a/a; correspondendo às nossas expectativas) e o LPA foi de R$ 0,30/ação (exatamente nossa projeção).<br />
+<br />
+<strong>Escritórios enfrentam maior vacância; Best Center continua aumentando as vendas</strong><br />
+<br />
+Vimos resultados mistos nos segmentos de escritórios e varejo (Best Center), mais uma vez, uma vez que: (i) os escritórios registraram um aumento na taxa de vacância de 410 bps t/t para 26,7%, refletindo o término de aluguéis em alguns edifícios no Rio; e (ii) Best Center apresentou crescimento de SSS de +9,3% a/a e SSR de +20,0% a/a, enquanto reduzia sua taxa de vacância para 8,9% (-440 bps a/a; -120 bps t/t). Por outro lado, a empresa está programada para executar os trabalhos de retrofit na propriedade multifamiliar GO850 recentemente adquirida.<br />
+<br />
+<strong>A São Carlos tem atuado em fusões e aquisições</strong><br />
+<br />
+A São Carlos tem se envolvido em muitas fusões e aquisições no setor recentemente, incluindo outros segmentos além de edifícios de escritórios: (i) em julho, a São Carlos comprou um imóvel multifamiliar; e (ii) em agosto, adquiriu um grande portfólio de varejo. Essas fusões e aquisições têm sido cumulativas para a empresa e marcam sua entrada em novos mercados, que consideramos positivos para a empresa.<br />
+<br />
+<strong>O 3T21 foi quase sem intercorrências; Classificação neutra (22x P/FFO 2022E)</strong><br />
+<br />
+Em nossa opinião, os resultados trimestrais ficaram em linha com as expectativas (o Ebitda e o FFO ajustados foram semelhantes às nossas projeções e a vacância de escritórios manteve-se elevada, conforme o esperado). Portanto, esperamos uma reação neutra do mercado aos resultados do 3T21 e mantemos nosso rating Neutro sobre as ações devido à falta de dinâmica de curto prazo (baixa demanda por escritórios e aumento das taxas de juros) e os múltiplos de avaliação um tanto elevados (negociando a 22x P/FFO 2022E).
+$14
+dividend_yield
+$18
+0.9333755373954773
+$17
+mean_daily_return
+$21
+-0.006919365841895342
+$17
+mean_daily_volume
+$16
+10781.8564453125
+$11
+forecast12m
+$19
+0.41999998688697815
+$9
+return12m
+$18
+-6.688549518585205
+$5
+price
+$4
+36.5
+*3
+$3
+SET
+$37
+{user.filter}.lucasblazzi@hotmail.com
+$260
+{"email": "lucasblazzi@hotmail.com", "stocks": {"segment": "Propriedades", "recommendation": "buy", "dividend_yield_min": 0, "dividend_yield_max": 0.3, "return12m_min": 0, "return12m_max": 14.2}, "funds": {"rating": "AA", "adm_tax_min": 0, "adm_tax_max": 0.4}}
+*35
+$4
+XADD
+$8
+products
+$15
+1637005014397-0
+$4
+name
+$11
+São Carlos
+$4
+link
+$61
+https://www.btgpactualdigital.com/blog/area_de_analises/18622
+$16
+publication_date
+$10
+2021-11-14
+$8
+category
+$7
+Ações
+$6
+source
+$19
+BTG Pactual Digital
+$6
+ticker
+$5
+SCAR3
+$12
+target_price
+$6
+4200.0
+$7
+segment
+$12
+Propriedades
+$14
+recommendation
+$6
+NEUTRO
+$11
+description
+$2595
+<strong>Resultado 3T21</strong><br />
+<br />
+<strong>O FFO foi de R$ 17 milhões (-13% a/a), em linha com nossas expectativas</strong><br />
+<br />
+Como esperado, a São Carlos reportou resultados fracos no 3T21, ficando em linha com nossas estimativas. A receita líquida totalizou R$ 61 milhões (+ 2% a/a; 2% abaixo de nossas projeções), uma vez que as adições de ABL compensaram a maior vacância no segmento de escritórios. O Ebitda ajustado ficou em R$ 43 milhões (-8% a/a; em linha com nossa projeção) com uma margem de 67% (-770 bps a/a; +130 bps acima de nós). O FFO totalizou R$ 17 milhões (-13% a/a; correspondendo às nossas expectativas) e o LPA foi de R$ 0,30/ação (exatamente nossa projeção).<br />
+<br />
+<strong>Escritórios enfrentam maior vacância; Best Center continua aumentando as vendas</strong><br />
+<br />
+Vimos resultados mistos nos segmentos de escritórios e varejo (Best Center), mais uma vez, uma vez que: (i) os escritórios registraram um aumento na taxa de vacância de 410 bps t/t para 26,7%, refletindo o término de aluguéis em alguns edifícios no Rio; e (ii) Best Center apresentou crescimento de SSS de +9,3% a/a e SSR de +20,0% a/a, enquanto reduzia sua taxa de vacância para 8,9% (-440 bps a/a; -120 bps t/t). Por outro lado, a empresa está programada para executar os trabalhos de retrofit na propriedade multifamiliar GO850 recentemente adquirida.<br />
+<br />
+<strong>A São Carlos tem atuado em fusões e aquisições</strong><br />
+<br />
+A São Carlos tem se envolvido em muitas fusões e aquisições no setor recentemente, incluindo outros segmentos além de edifícios de escritórios: (i) em julho, a São Carlos comprou um imóvel multifamiliar; e (ii) em agosto, adquiriu um grande portfólio de varejo. Essas fusões e aquisições têm sido cumulativas para a empresa e marcam sua entrada em novos mercados, que consideramos positivos para a empresa.<br />
+<br />
+<strong>O 3T21 foi quase sem intercorrências; Classificação neutra (22x P/FFO 2022E)</strong><br />
+<br />
+Em nossa opinião, os resultados trimestrais ficaram em linha com as expectativas (o Ebitda e o FFO ajustados foram semelhantes às nossas projeções e a vacância de escritórios manteve-se elevada, conforme o esperado). Portanto, esperamos uma reação neutra do mercado aos resultados do 3T21 e mantemos nosso rating Neutro sobre as ações devido à falta de dinâmica de curto prazo (baixa demanda por escritórios e aumento das taxas de juros) e os múltiplos de avaliação um tanto elevados (negociando a 22x P/FFO 2022E).
+$14
+dividend_yield
+$18
+0.9333755373954773
+$17
+mean_daily_return
+$21
+-0.006919365841895342
+$17
+mean_daily_volume
+$16
+10781.8564453125
+$11
+forecast12m
+$19
+0.41999998688697815
+$9
+return12m
+$18
+-6.688549518585205
+$5
+price
+$4
+36.5
+*3
+$3
+SET
+$37
+{user.filter}.lucasblazzi@hotmail.com
+$260
+{"email": "lucasblazzi@hotmail.com", "stocks": {"segment": "Propriedades", "recommendation": "buy", "dividend_yield_min": 0, "dividend_yield_max": 0.3, "return12m_min": 0, "return12m_max": 14.2}, "funds": {"rating": "AA", "adm_tax_min": 0, "adm_tax_max": 0.4}}
+*35
+$4
+XADD
+$8
+products
+$15
+1637005029153-0
+$4
+name
+$11
+São Carlos
+$4
+link
+$61
+https://www.btgpactualdigital.com/blog/area_de_analises/18622
+$16
+publication_date
+$10
+2021-11-14
+$8
+category
+$7
+Ações
+$6
+source
+$19
+BTG Pactual Digital
+$6
+ticker
+$5
+SCAR3
+$12
+target_price
+$6
+4200.0
+$7
+segment
+$12
+Propriedades
+$14
+recommendation
+$6
+NEUTRO
+$11
+description
+$2595
+<strong>Resultado 3T21</strong><br />
+<br />
+<strong>O FFO foi de R$ 17 milhões (-13% a/a), em linha com nossas expectativas</strong><br />
+<br />
+Como esperado, a São Carlos reportou resultados fracos no 3T21, ficando em linha com nossas estimativas. A receita líquida totalizou R$ 61 milhões (+ 2% a/a; 2% abaixo de nossas projeções), uma vez que as adições de ABL compensaram a maior vacância no segmento de escritórios. O Ebitda ajustado ficou em R$ 43 milhões (-8% a/a; em linha com nossa projeção) com uma margem de 67% (-770 bps a/a; +130 bps acima de nós). O FFO totalizou R$ 17 milhões (-13% a/a; correspondendo às nossas expectativas) e o LPA foi de R$ 0,30/ação (exatamente nossa projeção).<br />
+<br />
+<strong>Escritórios enfrentam maior vacância; Best Center continua aumentando as vendas</strong><br />
+<br />
+Vimos resultados mistos nos segmentos de escritórios e varejo (Best Center), mais uma vez, uma vez que: (i) os escritórios registraram um aumento na taxa de vacância de 410 bps t/t para 26,7%, refletindo o término de aluguéis em alguns edifícios no Rio; e (ii) Best Center apresentou crescimento de SSS de +9,3% a/a e SSR de +20,0% a/a, enquanto reduzia sua taxa de vacância para 8,9% (-440 bps a/a; -120 bps t/t). Por outro lado, a empresa está programada para executar os trabalhos de retrofit na propriedade multifamiliar GO850 recentemente adquirida.<br />
+<br />
+<strong>A São Carlos tem atuado em fusões e aquisições</strong><br />
+<br />
+A São Carlos tem se envolvido em muitas fusões e aquisições no setor recentemente, incluindo outros segmentos além de edifícios de escritórios: (i) em julho, a São Carlos comprou um imóvel multifamiliar; e (ii) em agosto, adquiriu um grande portfólio de varejo. Essas fusões e aquisições têm sido cumulativas para a empresa e marcam sua entrada em novos mercados, que consideramos positivos para a empresa.<br />
+<br />
+<strong>O 3T21 foi quase sem intercorrências; Classificação neutra (22x P/FFO 2022E)</strong><br />
+<br />
+Em nossa opinião, os resultados trimestrais ficaram em linha com as expectativas (o Ebitda e o FFO ajustados foram semelhantes às nossas projeções e a vacância de escritórios manteve-se elevada, conforme o esperado). Portanto, esperamos uma reação neutra do mercado aos resultados do 3T21 e mantemos nosso rating Neutro sobre as ações devido à falta de dinâmica de curto prazo (baixa demanda por escritórios e aumento das taxas de juros) e os múltiplos de avaliação um tanto elevados (negociando a 22x P/FFO 2022E).
+$14
+dividend_yield
+$18
+0.9333755373954773
+$17
+mean_daily_return
+$21
+-0.006919365841895342
+$17
+mean_daily_volume
+$16
+10781.8564453125
+$11
+forecast12m
+$19
+0.41999998688697815
+$9
+return12m
+$18
+-6.688549518585205
+$5
+price
+$4
+36.5
+*3
+$3
+SET
+$37
+{user.filter}.lucasblazzi@hotmail.com
+$260
+{"email": "lucasblazzi@hotmail.com", "stocks": {"segment": "Propriedades", "recommendation": "buy", "dividend_yield_min": 0, "dividend_yield_max": 0.3, "return12m_min": 0, "return12m_max": 14.2}, "funds": {"rating": "AA", "adm_tax_min": 0, "adm_tax_max": 0.4}}
+*35
+$4
+XADD
+$8
+products
+$15
+1637005044106-0
+$4
+name
+$11
+São Carlos
+$4
+link
+$61
+https://www.btgpactualdigital.com/blog/area_de_analises/18622
+$16
+publication_date
+$10
+2021-11-14
+$8
+category
+$7
+Ações
+$6
+source
+$19
+BTG Pactual Digital
+$6
+ticker
+$5
+SCAR3
+$12
+target_price
+$6
+4200.0
+$7
+segment
+$12
+Propriedades
+$14
+recommendation
+$6
+NEUTRO
+$11
+description
+$2595
+<strong>Resultado 3T21</strong><br />
+<br />
+<strong>O FFO foi de R$ 17 milhões (-13% a/a), em linha com nossas expectativas</strong><br />
+<br />
+Como esperado, a São Carlos reportou resultados fracos no 3T21, ficando em linha com nossas estimativas. A receita líquida totalizou R$ 61 milhões (+ 2% a/a; 2% abaixo de nossas projeções), uma vez que as adições de ABL compensaram a maior vacância no segmento de escritórios. O Ebitda ajustado ficou em R$ 43 milhões (-8% a/a; em linha com nossa projeção) com uma margem de 67% (-770 bps a/a; +130 bps acima de nós). O FFO totalizou R$ 17 milhões (-13% a/a; correspondendo às nossas expectativas) e o LPA foi de R$ 0,30/ação (exatamente nossa projeção).<br />
+<br />
+<strong>Escritórios enfrentam maior vacância; Best Center continua aumentando as vendas</strong><br />
+<br />
+Vimos resultados mistos nos segmentos de escritórios e varejo (Best Center), mais uma vez, uma vez que: (i) os escritórios registraram um aumento na taxa de vacância de 410 bps t/t para 26,7%, refletindo o término de aluguéis em alguns edifícios no Rio; e (ii) Best Center apresentou crescimento de SSS de +9,3% a/a e SSR de +20,0% a/a, enquanto reduzia sua taxa de vacância para 8,9% (-440 bps a/a; -120 bps t/t). Por outro lado, a empresa está programada para executar os trabalhos de retrofit na propriedade multifamiliar GO850 recentemente adquirida.<br />
+<br />
+<strong>A São Carlos tem atuado em fusões e aquisições</strong><br />
+<br />
+A São Carlos tem se envolvido em muitas fusões e aquisições no setor recentemente, incluindo outros segmentos além de edifícios de escritórios: (i) em julho, a São Carlos comprou um imóvel multifamiliar; e (ii) em agosto, adquiriu um grande portfólio de varejo. Essas fusões e aquisições têm sido cumulativas para a empresa e marcam sua entrada em novos mercados, que consideramos positivos para a empresa.<br />
+<br />
+<strong>O 3T21 foi quase sem intercorrências; Classificação neutra (22x P/FFO 2022E)</strong><br />
+<br />
+Em nossa opinião, os resultados trimestrais ficaram em linha com as expectativas (o Ebitda e o FFO ajustados foram semelhantes às nossas projeções e a vacância de escritórios manteve-se elevada, conforme o esperado). Portanto, esperamos uma reação neutra do mercado aos resultados do 3T21 e mantemos nosso rating Neutro sobre as ações devido à falta de dinâmica de curto prazo (baixa demanda por escritórios e aumento das taxas de juros) e os múltiplos de avaliação um tanto elevados (negociando a 22x P/FFO 2022E).
+$14
+dividend_yield
+$18
+0.9333755373954773
+$17
+mean_daily_return
+$21
+-0.006919365841895342
+$17
+mean_daily_volume
+$16
+10781.8564453125
+$11
+forecast12m
+$19
+0.41999998688697815
+$9
+return12m
+$18
+-6.688549518585205
+$5
+price
+$4
+36.5
+*3
+$3
+SET
+$37
+{user.filter}.lucasblazzi@hotmail.com
+$260
+{"email": "lucasblazzi@hotmail.com", "stocks": {"segment": "Propriedades", "recommendation": "buy", "dividend_yield_min": 0, "dividend_yield_max": 0.3, "return12m_min": 0, "return12m_max": 14.2}, "funds": {"rating": "AA", "adm_tax_min": 0, "adm_tax_max": 0.4}}
+*35
+$4
+XADD
+$8
+products
+$15
+1637005069391-0
+$4
+name
+$11
+São Carlos
+$4
+link
+$61
+https://www.btgpactualdigital.com/blog/area_de_analises/18622
+$16
+publication_date
+$10
+2021-11-14
+$8
+category
+$7
+Ações
+$6
+source
+$19
+BTG Pactual Digital
+$6
+ticker
+$5
+SCAR3
+$12
+target_price
+$6
+4200.0
+$7
+segment
+$12
+Propriedades
+$14
+recommendation
+$6
+NEUTRO
+$11
+description
+$2595
+<strong>Resultado 3T21</strong><br />
+<br />
+<strong>O FFO foi de R$ 17 milhões (-13% a/a), em linha com nossas expectativas</strong><br />
+<br />
+Como esperado, a São Carlos reportou resultados fracos no 3T21, ficando em linha com nossas estimativas. A receita líquida totalizou R$ 61 milhões (+ 2% a/a; 2% abaixo de nossas projeções), uma vez que as adições de ABL compensaram a maior vacância no segmento de escritórios. O Ebitda ajustado ficou em R$ 43 milhões (-8% a/a; em linha com nossa projeção) com uma margem de 67% (-770 bps a/a; +130 bps acima de nós). O FFO totalizou R$ 17 milhões (-13% a/a; correspondendo às nossas expectativas) e o LPA foi de R$ 0,30/ação (exatamente nossa projeção).<br />
+<br />
+<strong>Escritórios enfrentam maior vacância; Best Center continua aumentando as vendas</strong><br />
+<br />
+Vimos resultados mistos nos segmentos de escritórios e varejo (Best Center), mais uma vez, uma vez que: (i) os escritórios registraram um aumento na taxa de vacância de 410 bps t/t para 26,7%, refletindo o término de aluguéis em alguns edifícios no Rio; e (ii) Best Center apresentou crescimento de SSS de +9,3% a/a e SSR de +20,0% a/a, enquanto reduzia sua taxa de vacância para 8,9% (-440 bps a/a; -120 bps t/t). Por outro lado, a empresa está programada para executar os trabalhos de retrofit na propriedade multifamiliar GO850 recentemente adquirida.<br />
+<br />
+<strong>A São Carlos tem atuado em fusões e aquisições</strong><br />
+<br />
+A São Carlos tem se envolvido em muitas fusões e aquisições no setor recentemente, incluindo outros segmentos além de edifícios de escritórios: (i) em julho, a São Carlos comprou um imóvel multifamiliar; e (ii) em agosto, adquiriu um grande portfólio de varejo. Essas fusões e aquisições têm sido cumulativas para a empresa e marcam sua entrada em novos mercados, que consideramos positivos para a empresa.<br />
+<br />
+<strong>O 3T21 foi quase sem intercorrências; Classificação neutra (22x P/FFO 2022E)</strong><br />
+<br />
+Em nossa opinião, os resultados trimestrais ficaram em linha com as expectativas (o Ebitda e o FFO ajustados foram semelhantes às nossas projeções e a vacância de escritórios manteve-se elevada, conforme o esperado). Portanto, esperamos uma reação neutra do mercado aos resultados do 3T21 e mantemos nosso rating Neutro sobre as ações devido à falta de dinâmica de curto prazo (baixa demanda por escritórios e aumento das taxas de juros) e os múltiplos de avaliação um tanto elevados (negociando a 22x P/FFO 2022E).
+$14
+dividend_yield
+$18
+0.9333755373954773
+$17
+mean_daily_return
+$21
+-0.006919365841895342
+$17
+mean_daily_volume
+$16
+10781.8564453125
+$11
+forecast12m
+$19
+0.41999998688697815
+$9
+return12m
+$18
+-6.688549518585205
+$5
+price
+$4
+36.5
+*3
+$3
+SET
+$37
+{user.filter}.lucasblazzi@hotmail.com
+$260
+{"email": "lucasblazzi@hotmail.com", "stocks": {"segment": "Propriedades", "recommendation": "buy", "dividend_yield_min": 0, "dividend_yield_max": 0.3, "return12m_min": 0, "return12m_max": 14.2}, "funds": {"rating": "AA", "adm_tax_min": 0, "adm_tax_max": 0.4}}
+*35
+$4
+XADD
+$8
+products
+$15
+1637005088602-0
+$4
+name
+$11
+São Carlos
+$4
+link
+$61
+https://www.btgpactualdigital.com/blog/area_de_analises/18622
+$16
+publication_date
+$10
+2021-11-14
+$8
+category
+$7
+Ações
+$6
+source
+$19
+BTG Pactual Digital
+$6
+ticker
+$5
+SCAR3
+$12
+target_price
+$6
+4200.0
+$7
+segment
+$12
+Propriedades
+$14
+recommendation
+$6
+NEUTRO
+$11
+description
+$2595
+<strong>Resultado 3T21</strong><br />
+<br />
+<strong>O FFO foi de R$ 17 milhões (-13% a/a), em linha com nossas expectativas</strong><br />
+<br />
+Como esperado, a São Carlos reportou resultados fracos no 3T21, ficando em linha com nossas estimativas. A receita líquida totalizou R$ 61 milhões (+ 2% a/a; 2% abaixo de nossas projeções), uma vez que as adições de ABL compensaram a maior vacância no segmento de escritórios. O Ebitda ajustado ficou em R$ 43 milhões (-8% a/a; em linha com nossa projeção) com uma margem de 67% (-770 bps a/a; +130 bps acima de nós). O FFO totalizou R$ 17 milhões (-13% a/a; correspondendo às nossas expectativas) e o LPA foi de R$ 0,30/ação (exatamente nossa projeção).<br />
+<br />
+<strong>Escritórios enfrentam maior vacância; Best Center continua aumentando as vendas</strong><br />
+<br />
+Vimos resultados mistos nos segmentos de escritórios e varejo (Best Center), mais uma vez, uma vez que: (i) os escritórios registraram um aumento na taxa de vacância de 410 bps t/t para 26,7%, refletindo o término de aluguéis em alguns edifícios no Rio; e (ii) Best Center apresentou crescimento de SSS de +9,3% a/a e SSR de +20,0% a/a, enquanto reduzia sua taxa de vacância para 8,9% (-440 bps a/a; -120 bps t/t). Por outro lado, a empresa está programada para executar os trabalhos de retrofit na propriedade multifamiliar GO850 recentemente adquirida.<br />
+<br />
+<strong>A São Carlos tem atuado em fusões e aquisições</strong><br />
+<br />
+A São Carlos tem se envolvido em muitas fusões e aquisições no setor recentemente, incluindo outros segmentos além de edifícios de escritórios: (i) em julho, a São Carlos comprou um imóvel multifamiliar; e (ii) em agosto, adquiriu um grande portfólio de varejo. Essas fusões e aquisições têm sido cumulativas para a empresa e marcam sua entrada em novos mercados, que consideramos positivos para a empresa.<br />
+<br />
+<strong>O 3T21 foi quase sem intercorrências; Classificação neutra (22x P/FFO 2022E)</strong><br />
+<br />
+Em nossa opinião, os resultados trimestrais ficaram em linha com as expectativas (o Ebitda e o FFO ajustados foram semelhantes às nossas projeções e a vacância de escritórios manteve-se elevada, conforme o esperado). Portanto, esperamos uma reação neutra do mercado aos resultados do 3T21 e mantemos nosso rating Neutro sobre as ações devido à falta de dinâmica de curto prazo (baixa demanda por escritórios e aumento das taxas de juros) e os múltiplos de avaliação um tanto elevados (negociando a 22x P/FFO 2022E).
+$14
+dividend_yield
+$18
+0.9333755373954773
+$17
+mean_daily_return
+$21
+-0.006919365841895342
+$17
+mean_daily_volume
+$16
+10781.8564453125
+$11
+forecast12m
+$19
+0.41999998688697815
+$9
+return12m
+$18
+-6.688549518585205
+$5
+price
+$4
+36.5
+*3
+$3
+SET
+$37
+{user.filter}.lucasblazzi@hotmail.com
+$260
+{"email": "lucasblazzi@hotmail.com", "stocks": {"segment": "Propriedades", "recommendation": "buy", "dividend_yield_min": 0, "dividend_yield_max": 0.3, "return12m_min": 0, "return12m_max": 14.2}, "funds": {"rating": "AA", "adm_tax_min": 0, "adm_tax_max": 0.4}}
+*35
+$4
+XADD
+$8
+products
+$15
+1637005202229-0
+$4
+name
+$11
+São Carlos
+$4
+link
+$61
+https://www.btgpactualdigital.com/blog/area_de_analises/18622
+$16
+publication_date
+$10
+2021-11-14
+$8
+category
+$7
+Ações
+$6
+source
+$19
+BTG Pactual Digital
+$6
+ticker
+$5
+SCAR3
+$12
+target_price
+$6
+4200.0
+$7
+segment
+$12
+Propriedades
+$14
+recommendation
+$6
+NEUTRO
+$11
+description
+$2595
+<strong>Resultado 3T21</strong><br />
+<br />
+<strong>O FFO foi de R$ 17 milhões (-13% a/a), em linha com nossas expectativas</strong><br />
+<br />
+Como esperado, a São Carlos reportou resultados fracos no 3T21, ficando em linha com nossas estimativas. A receita líquida totalizou R$ 61 milhões (+ 2% a/a; 2% abaixo de nossas projeções), uma vez que as adições de ABL compensaram a maior vacância no segmento de escritórios. O Ebitda ajustado ficou em R$ 43 milhões (-8% a/a; em linha com nossa projeção) com uma margem de 67% (-770 bps a/a; +130 bps acima de nós). O FFO totalizou R$ 17 milhões (-13% a/a; correspondendo às nossas expectativas) e o LPA foi de R$ 0,30/ação (exatamente nossa projeção).<br />
+<br />
+<strong>Escritórios enfrentam maior vacância; Best Center continua aumentando as vendas</strong><br />
+<br />
+Vimos resultados mistos nos segmentos de escritórios e varejo (Best Center), mais uma vez, uma vez que: (i) os escritórios registraram um aumento na taxa de vacância de 410 bps t/t para 26,7%, refletindo o término de aluguéis em alguns edifícios no Rio; e (ii) Best Center apresentou crescimento de SSS de +9,3% a/a e SSR de +20,0% a/a, enquanto reduzia sua taxa de vacância para 8,9% (-440 bps a/a; -120 bps t/t). Por outro lado, a empresa está programada para executar os trabalhos de retrofit na propriedade multifamiliar GO850 recentemente adquirida.<br />
+<br />
+<strong>A São Carlos tem atuado em fusões e aquisições</strong><br />
+<br />
+A São Carlos tem se envolvido em muitas fusões e aquisições no setor recentemente, incluindo outros segmentos além de edifícios de escritórios: (i) em julho, a São Carlos comprou um imóvel multifamiliar; e (ii) em agosto, adquiriu um grande portfólio de varejo. Essas fusões e aquisições têm sido cumulativas para a empresa e marcam sua entrada em novos mercados, que consideramos positivos para a empresa.<br />
+<br />
+<strong>O 3T21 foi quase sem intercorrências; Classificação neutra (22x P/FFO 2022E)</strong><br />
+<br />
+Em nossa opinião, os resultados trimestrais ficaram em linha com as expectativas (o Ebitda e o FFO ajustados foram semelhantes às nossas projeções e a vacância de escritórios manteve-se elevada, conforme o esperado). Portanto, esperamos uma reação neutra do mercado aos resultados do 3T21 e mantemos nosso rating Neutro sobre as ações devido à falta de dinâmica de curto prazo (baixa demanda por escritórios e aumento das taxas de juros) e os múltiplos de avaliação um tanto elevados (negociando a 22x P/FFO 2022E).
+$14
+dividend_yield
+$18
+0.9333755373954773
+$17
+mean_daily_return
+$21
+-0.006919365841895342
+$17
+mean_daily_volume
+$16
+10781.8564453125
+$11
+forecast12m
+$19
+0.41999998688697815
+$9
+return12m
+$18
+-6.688549518585205
+$5
+price
+$4
+36.5
+*3
+$3
+SET
+$37
+{user.filter}.lucasblazzi@hotmail.com
+$260
+{"email": "lucasblazzi@hotmail.com", "stocks": {"segment": "Propriedades", "recommendation": "buy", "dividend_yield_min": 0, "dividend_yield_max": 0.3, "return12m_min": 0, "return12m_max": 14.2}, "funds": {"rating": "AA", "adm_tax_min": 0, "adm_tax_max": 0.4}}
+*35
+$4
+XADD
+$8
+products
+$15
+1637005283756-0
+$4
+name
+$11
+São Carlos
+$4
+link
+$61
+https://www.btgpactualdigital.com/blog/area_de_analises/18622
+$16
+publication_date
+$10
+2021-11-14
+$8
+category
+$7
+Ações
+$6
+source
+$19
+BTG Pactual Digital
+$6
+ticker
+$5
+SCAR3
+$12
+target_price
+$6
+4200.0
+$7
+segment
+$12
+Propriedades
+$14
+recommendation
+$6
+NEUTRO
+$11
+description
+$2595
+<strong>Resultado 3T21</strong><br />
+<br />
+<strong>O FFO foi de R$ 17 milhões (-13% a/a), em linha com nossas expectativas</strong><br />
+<br />
+Como esperado, a São Carlos reportou resultados fracos no 3T21, ficando em linha com nossas estimativas. A receita líquida totalizou R$ 61 milhões (+ 2% a/a; 2% abaixo de nossas projeções), uma vez que as adições de ABL compensaram a maior vacância no segmento de escritórios. O Ebitda ajustado ficou em R$ 43 milhões (-8% a/a; em linha com nossa projeção) com uma margem de 67% (-770 bps a/a; +130 bps acima de nós). O FFO totalizou R$ 17 milhões (-13% a/a; correspondendo às nossas expectativas) e o LPA foi de R$ 0,30/ação (exatamente nossa projeção).<br />
+<br />
+<strong>Escritórios enfrentam maior vacância; Best Center continua aumentando as vendas</strong><br />
+<br />
+Vimos resultados mistos nos segmentos de escritórios e varejo (Best Center), mais uma vez, uma vez que: (i) os escritórios registraram um aumento na taxa de vacância de 410 bps t/t para 26,7%, refletindo o término de aluguéis em alguns edifícios no Rio; e (ii) Best Center apresentou crescimento de SSS de +9,3% a/a e SSR de +20,0% a/a, enquanto reduzia sua taxa de vacância para 8,9% (-440 bps a/a; -120 bps t/t). Por outro lado, a empresa está programada para executar os trabalhos de retrofit na propriedade multifamiliar GO850 recentemente adquirida.<br />
+<br />
+<strong>A São Carlos tem atuado em fusões e aquisições</strong><br />
+<br />
+A São Carlos tem se envolvido em muitas fusões e aquisições no setor recentemente, incluindo outros segmentos além de edifícios de escritórios: (i) em julho, a São Carlos comprou um imóvel multifamiliar; e (ii) em agosto, adquiriu um grande portfólio de varejo. Essas fusões e aquisições têm sido cumulativas para a empresa e marcam sua entrada em novos mercados, que consideramos positivos para a empresa.<br />
+<br />
+<strong>O 3T21 foi quase sem intercorrências; Classificação neutra (22x P/FFO 2022E)</strong><br />
+<br />
+Em nossa opinião, os resultados trimestrais ficaram em linha com as expectativas (o Ebitda e o FFO ajustados foram semelhantes às nossas projeções e a vacância de escritórios manteve-se elevada, conforme o esperado). Portanto, esperamos uma reação neutra do mercado aos resultados do 3T21 e mantemos nosso rating Neutro sobre as ações devido à falta de dinâmica de curto prazo (baixa demanda por escritórios e aumento das taxas de juros) e os múltiplos de avaliação um tanto elevados (negociando a 22x P/FFO 2022E).
+$14
+dividend_yield
+$18
+0.9333755373954773
+$17
+mean_daily_return
+$21
+-0.006919365841895342
+$17
+mean_daily_volume
+$16
+10781.8564453125
+$11
+forecast12m
+$19
+0.41999998688697815
+$9
+return12m
+$18
+-6.688549518585205
+$5
+price
+$4
+36.5
+*3
+$3
+SET
+$37
+{user.filter}.lucasblazzi@hotmail.com
+$260
+{"email": "lucasblazzi@hotmail.com", "stocks": {"segment": "Propriedades", "recommendation": "buy", "dividend_yield_min": 0, "dividend_yield_max": 0.3, "return12m_min": 0, "return12m_max": 14.2}, "funds": {"rating": "AA", "adm_tax_min": 0, "adm_tax_max": 0.4}}
+*35
+$4
+XADD
+$8
+products
+$15
+1637005307753-0
+$4
+name
+$11
+São Carlos
+$4
+link
+$61
+https://www.btgpactualdigital.com/blog/area_de_analises/18622
+$16
+publication_date
+$10
+2021-11-14
+$8
+category
+$7
+Ações
+$6
+source
+$19
+BTG Pactual Digital
+$6
+ticker
+$5
+SCAR3
+$12
+target_price
+$6
+4200.0
+$7
+segment
+$12
+Propriedades
+$14
+recommendation
+$6
+NEUTRO
+$11
+description
+$2595
+<strong>Resultado 3T21</strong><br />
+<br />
+<strong>O FFO foi de R$ 17 milhões (-13% a/a), em linha com nossas expectativas</strong><br />
+<br />
+Como esperado, a São Carlos reportou resultados fracos no 3T21, ficando em linha com nossas estimativas. A receita líquida totalizou R$ 61 milhões (+ 2% a/a; 2% abaixo de nossas projeções), uma vez que as adições de ABL compensaram a maior vacância no segmento de escritórios. O Ebitda ajustado ficou em R$ 43 milhões (-8% a/a; em linha com nossa projeção) com uma margem de 67% (-770 bps a/a; +130 bps acima de nós). O FFO totalizou R$ 17 milhões (-13% a/a; correspondendo às nossas expectativas) e o LPA foi de R$ 0,30/ação (exatamente nossa projeção).<br />
+<br />
+<strong>Escritórios enfrentam maior vacância; Best Center continua aumentando as vendas</strong><br />
+<br />
+Vimos resultados mistos nos segmentos de escritórios e varejo (Best Center), mais uma vez, uma vez que: (i) os escritórios registraram um aumento na taxa de vacância de 410 bps t/t para 26,7%, refletindo o término de aluguéis em alguns edifícios no Rio; e (ii) Best Center apresentou crescimento de SSS de +9,3% a/a e SSR de +20,0% a/a, enquanto reduzia sua taxa de vacância para 8,9% (-440 bps a/a; -120 bps t/t). Por outro lado, a empresa está programada para executar os trabalhos de retrofit na propriedade multifamiliar GO850 recentemente adquirida.<br />
+<br />
+<strong>A São Carlos tem atuado em fusões e aquisições</strong><br />
+<br />
+A São Carlos tem se envolvido em muitas fusões e aquisições no setor recentemente, incluindo outros segmentos além de edifícios de escritórios: (i) em julho, a São Carlos comprou um imóvel multifamiliar; e (ii) em agosto, adquiriu um grande portfólio de varejo. Essas fusões e aquisições têm sido cumulativas para a empresa e marcam sua entrada em novos mercados, que consideramos positivos para a empresa.<br />
+<br />
+<strong>O 3T21 foi quase sem intercorrências; Classificação neutra (22x P/FFO 2022E)</strong><br />
+<br />
+Em nossa opinião, os resultados trimestrais ficaram em linha com as expectativas (o Ebitda e o FFO ajustados foram semelhantes às nossas projeções e a vacância de escritórios manteve-se elevada, conforme o esperado). Portanto, esperamos uma reação neutra do mercado aos resultados do 3T21 e mantemos nosso rating Neutro sobre as ações devido à falta de dinâmica de curto prazo (baixa demanda por escritórios e aumento das taxas de juros) e os múltiplos de avaliação um tanto elevados (negociando a 22x P/FFO 2022E).
+$14
+dividend_yield
+$18
+0.9333755373954773
+$17
+mean_daily_return
+$21
+-0.006919365841895342
+$17
+mean_daily_volume
+$16
+10781.8564453125
+$11
+forecast12m
+$19
+0.41999998688697815
+$9
+return12m
+$18
+-6.688549518585205
+$5
+price
+$4
+36.5
+*3
+$3
+SET
+$37
+{user.filter}.lucasblazzi@hotmail.com
+$140
+{"email": "lucasblazzi@hotmail.com", "stocks": {"segment": "Propriedades"}, "funds": {"rating": "AA", "adm_tax_min": 0, "adm_tax_max": 0.4}}
+*35
+$4
+XADD
+$8
+products
+$15
+1637005403352-0
+$4
+name
+$11
+São Carlos
+$4
+link
+$61
+https://www.btgpactualdigital.com/blog/area_de_analises/18622
+$16
+publication_date
+$10
+2021-11-14
+$8
+category
+$7
+Ações
+$6
+source
+$19
+BTG Pactual Digital
+$6
+ticker
+$5
+SCAR3
+$12
+target_price
+$6
+4200.0
+$7
+segment
+$12
+Propriedades
+$14
+recommendation
+$6
+NEUTRO
+$11
+description
+$2595
+<strong>Resultado 3T21</strong><br />
+<br />
+<strong>O FFO foi de R$ 17 milhões (-13% a/a), em linha com nossas expectativas</strong><br />
+<br />
+Como esperado, a São Carlos reportou resultados fracos no 3T21, ficando em linha com nossas estimativas. A receita líquida totalizou R$ 61 milhões (+ 2% a/a; 2% abaixo de nossas projeções), uma vez que as adições de ABL compensaram a maior vacância no segmento de escritórios. O Ebitda ajustado ficou em R$ 43 milhões (-8% a/a; em linha com nossa projeção) com uma margem de 67% (-770 bps a/a; +130 bps acima de nós). O FFO totalizou R$ 17 milhões (-13% a/a; correspondendo às nossas expectativas) e o LPA foi de R$ 0,30/ação (exatamente nossa projeção).<br />
+<br />
+<strong>Escritórios enfrentam maior vacância; Best Center continua aumentando as vendas</strong><br />
+<br />
+Vimos resultados mistos nos segmentos de escritórios e varejo (Best Center), mais uma vez, uma vez que: (i) os escritórios registraram um aumento na taxa de vacância de 410 bps t/t para 26,7%, refletindo o término de aluguéis em alguns edifícios no Rio; e (ii) Best Center apresentou crescimento de SSS de +9,3% a/a e SSR de +20,0% a/a, enquanto reduzia sua taxa de vacância para 8,9% (-440 bps a/a; -120 bps t/t). Por outro lado, a empresa está programada para executar os trabalhos de retrofit na propriedade multifamiliar GO850 recentemente adquirida.<br />
+<br />
+<strong>A São Carlos tem atuado em fusões e aquisições</strong><br />
+<br />
+A São Carlos tem se envolvido em muitas fusões e aquisições no setor recentemente, incluindo outros segmentos além de edifícios de escritórios: (i) em julho, a São Carlos comprou um imóvel multifamiliar; e (ii) em agosto, adquiriu um grande portfólio de varejo. Essas fusões e aquisições têm sido cumulativas para a empresa e marcam sua entrada em novos mercados, que consideramos positivos para a empresa.<br />
+<br />
+<strong>O 3T21 foi quase sem intercorrências; Classificação neutra (22x P/FFO 2022E)</strong><br />
+<br />
+Em nossa opinião, os resultados trimestrais ficaram em linha com as expectativas (o Ebitda e o FFO ajustados foram semelhantes às nossas projeções e a vacância de escritórios manteve-se elevada, conforme o esperado). Portanto, esperamos uma reação neutra do mercado aos resultados do 3T21 e mantemos nosso rating Neutro sobre as ações devido à falta de dinâmica de curto prazo (baixa demanda por escritórios e aumento das taxas de juros) e os múltiplos de avaliação um tanto elevados (negociando a 22x P/FFO 2022E).
+$14
+dividend_yield
+$18
+0.9333755373954773
+$17
+mean_daily_return
+$21
+-0.006919365841895342
+$17
+mean_daily_volume
+$16
+10781.8564453125
+$11
+forecast12m
+$19
+0.41999998688697815
+$9
+return12m
+$18
+-6.688549518585205
+$5
+price
+$4
+36.5
+*2
+$6
+SELECT
+$1
+0
+*3
+$3
+SET
+$37
+{user.filter}.lucasblazzi@hotmail.com
+$140
+{"email": "lucasblazzi@hotmail.com", "stocks": {"segment": "Propriedades"}, "funds": {"rating": "AA", "adm_tax_min": 0, "adm_tax_max": 0.4}}
+*35
+$4
+XADD
+$8
+products
+$15
+1637100452590-0
+$4
+name
+$11
+São Carlos
+$4
+link
+$61
+https://www.btgpactualdigital.com/blog/area_de_analises/18622
+$16
+publication_date
+$10
+2021-11-14
+$8
+category
+$7
+Ações
+$6
+source
+$19
+BTG Pactual Digital
+$6
+ticker
+$5
+SCAR3
+$12
+target_price
+$6
+4200.0
+$7
+segment
+$12
+Propriedades
+$14
+recommendation
+$6
+NEUTRO
+$11
+description
+$2595
+<strong>Resultado 3T21</strong><br />
+<br />
+<strong>O FFO foi de R$ 17 milhões (-13% a/a), em linha com nossas expectativas</strong><br />
+<br />
+Como esperado, a São Carlos reportou resultados fracos no 3T21, ficando em linha com nossas estimativas. A receita líquida totalizou R$ 61 milhões (+ 2% a/a; 2% abaixo de nossas projeções), uma vez que as adições de ABL compensaram a maior vacância no segmento de escritórios. O Ebitda ajustado ficou em R$ 43 milhões (-8% a/a; em linha com nossa projeção) com uma margem de 67% (-770 bps a/a; +130 bps acima de nós). O FFO totalizou R$ 17 milhões (-13% a/a; correspondendo às nossas expectativas) e o LPA foi de R$ 0,30/ação (exatamente nossa projeção).<br />
+<br />
+<strong>Escritórios enfrentam maior vacância; Best Center continua aumentando as vendas</strong><br />
+<br />
+Vimos resultados mistos nos segmentos de escritórios e varejo (Best Center), mais uma vez, uma vez que: (i) os escritórios registraram um aumento na taxa de vacância de 410 bps t/t para 26,7%, refletindo o término de aluguéis em alguns edifícios no Rio; e (ii) Best Center apresentou crescimento de SSS de +9,3% a/a e SSR de +20,0% a/a, enquanto reduzia sua taxa de vacância para 8,9% (-440 bps a/a; -120 bps t/t). Por outro lado, a empresa está programada para executar os trabalhos de retrofit na propriedade multifamiliar GO850 recentemente adquirida.<br />
+<br />
+<strong>A São Carlos tem atuado em fusões e aquisições</strong><br />
+<br />
+A São Carlos tem se envolvido em muitas fusões e aquisições no setor recentemente, incluindo outros segmentos além de edifícios de escritórios: (i) em julho, a São Carlos comprou um imóvel multifamiliar; e (ii) em agosto, adquiriu um grande portfólio de varejo. Essas fusões e aquisições têm sido cumulativas para a empresa e marcam sua entrada em novos mercados, que consideramos positivos para a empresa.<br />
+<br />
+<strong>O 3T21 foi quase sem intercorrências; Classificação neutra (22x P/FFO 2022E)</strong><br />
+<br />
+Em nossa opinião, os resultados trimestrais ficaram em linha com as expectativas (o Ebitda e o FFO ajustados foram semelhantes às nossas projeções e a vacância de escritórios manteve-se elevada, conforme o esperado). Portanto, esperamos uma reação neutra do mercado aos resultados do 3T21 e mantemos nosso rating Neutro sobre as ações devido à falta de dinâmica de curto prazo (baixa demanda por escritórios e aumento das taxas de juros) e os múltiplos de avaliação um tanto elevados (negociando a 22x P/FFO 2022E).
+$14
+dividend_yield
+$18
+0.9333755373954773
+$17
+mean_daily_return
+$21
+-0.006919365841895342
+$17
+mean_daily_volume
+$16
+10781.8564453125
+$11
+forecast12m
+$19
+0.41999998688697815
+$9
+return12m
+$18
+-6.688549518585205
+$5
+price
+$4
+36.5
+*35
+$4
+XADD
+$8
+products
+$15
+1637100512034-0
+$4
+name
+$11
+São Carlos
+$4
+link
+$61
+https://www.btgpactualdigital.com/blog/area_de_analises/18622
+$16
+publication_date
+$10
+2021-11-14
+$8
+category
+$7
+Ações
+$6
+source
+$19
+BTG Pactual Digital
+$6
+ticker
+$5
+SCAR3
+$12
+target_price
+$6
+4200.0
+$7
+segment
+$12
+Propriedades
+$14
+recommendation
+$6
+NEUTRO
+$11
+description
+$2595
+<strong>Resultado 3T21</strong><br />
+<br />
+<strong>O FFO foi de R$ 17 milhões (-13% a/a), em linha com nossas expectativas</strong><br />
+<br />
+Como esperado, a São Carlos reportou resultados fracos no 3T21, ficando em linha com nossas estimativas. A receita líquida totalizou R$ 61 milhões (+ 2% a/a; 2% abaixo de nossas projeções), uma vez que as adições de ABL compensaram a maior vacância no segmento de escritórios. O Ebitda ajustado ficou em R$ 43 milhões (-8% a/a; em linha com nossa projeção) com uma margem de 67% (-770 bps a/a; +130 bps acima de nós). O FFO totalizou R$ 17 milhões (-13% a/a; correspondendo às nossas expectativas) e o LPA foi de R$ 0,30/ação (exatamente nossa projeção).<br />
+<br />
+<strong>Escritórios enfrentam maior vacância; Best Center continua aumentando as vendas</strong><br />
+<br />
+Vimos resultados mistos nos segmentos de escritórios e varejo (Best Center), mais uma vez, uma vez que: (i) os escritórios registraram um aumento na taxa de vacância de 410 bps t/t para 26,7%, refletindo o término de aluguéis em alguns edifícios no Rio; e (ii) Best Center apresentou crescimento de SSS de +9,3% a/a e SSR de +20,0% a/a, enquanto reduzia sua taxa de vacância para 8,9% (-440 bps a/a; -120 bps t/t). Por outro lado, a empresa está programada para executar os trabalhos de retrofit na propriedade multifamiliar GO850 recentemente adquirida.<br />
+<br />
+<strong>A São Carlos tem atuado em fusões e aquisições</strong><br />
+<br />
+A São Carlos tem se envolvido em muitas fusões e aquisições no setor recentemente, incluindo outros segmentos além de edifícios de escritórios: (i) em julho, a São Carlos comprou um imóvel multifamiliar; e (ii) em agosto, adquiriu um grande portfólio de varejo. Essas fusões e aquisições têm sido cumulativas para a empresa e marcam sua entrada em novos mercados, que consideramos positivos para a empresa.<br />
+<br />
+<strong>O 3T21 foi quase sem intercorrências; Classificação neutra (22x P/FFO 2022E)</strong><br />
+<br />
+Em nossa opinião, os resultados trimestrais ficaram em linha com as expectativas (o Ebitda e o FFO ajustados foram semelhantes às nossas projeções e a vacância de escritórios manteve-se elevada, conforme o esperado). Portanto, esperamos uma reação neutra do mercado aos resultados do 3T21 e mantemos nosso rating Neutro sobre as ações devido à falta de dinâmica de curto prazo (baixa demanda por escritórios e aumento das taxas de juros) e os múltiplos de avaliação um tanto elevados (negociando a 22x P/FFO 2022E).
+$14
+dividend_yield
+$18
+0.9333755373954773
+$17
+mean_daily_return
+$21
+-0.006919365841895342
+$17
+mean_daily_volume
+$16
+10781.8564453125
+$11
+forecast12m
+$19
+0.41999998688697815
+$9
+return12m
+$18
+-6.688549518585205
+$5
+price
+$4
+36.5
+*3
+$3
+SET
+$37
+{user.filter}.lucasblazzi@hotmail.com
+$140
+{"email": "lucasblazzi@hotmail.com", "stocks": {"segment": "Propriedades"}, "funds": {"rating": "AA", "adm_tax_min": 0, "adm_tax_max": 0.4}}
+*3
+$3
+SET
+$37
+{user.filter}.lucasblazzi@hotmail.com
+$140
+{"email": "lucasblazzi@hotmail.com", "stocks": {"segment": "Propriedades"}, "funds": {"rating": "AA", "adm_tax_min": 0, "adm_tax_max": 0.4}}
+*35
+$4
+XADD
+$8
+products
+$15
+1637100693684-0
+$4
+name
+$11
+São Carlos
+$4
+link
+$61
+https://www.btgpactualdigital.com/blog/area_de_analises/18622
+$16
+publication_date
+$10
+2021-11-14
+$8
+category
+$7
+Ações
+$6
+source
+$19
+BTG Pactual Digital
+$6
+ticker
+$5
+SCAR3
+$12
+target_price
+$6
+4200.0
+$7
+segment
+$12
+Propriedades
+$14
+recommendation
+$6
+NEUTRO
+$11
+description
+$2595
+<strong>Resultado 3T21</strong><br />
+<br />
+<strong>O FFO foi de R$ 17 milhões (-13% a/a), em linha com nossas expectativas</strong><br />
+<br />
+Como esperado, a São Carlos reportou resultados fracos no 3T21, ficando em linha com nossas estimativas. A receita líquida totalizou R$ 61 milhões (+ 2% a/a; 2% abaixo de nossas projeções), uma vez que as adições de ABL compensaram a maior vacância no segmento de escritórios. O Ebitda ajustado ficou em R$ 43 milhões (-8% a/a; em linha com nossa projeção) com uma margem de 67% (-770 bps a/a; +130 bps acima de nós). O FFO totalizou R$ 17 milhões (-13% a/a; correspondendo às nossas expectativas) e o LPA foi de R$ 0,30/ação (exatamente nossa projeção).<br />
+<br />
+<strong>Escritórios enfrentam maior vacância; Best Center continua aumentando as vendas</strong><br />
+<br />
+Vimos resultados mistos nos segmentos de escritórios e varejo (Best Center), mais uma vez, uma vez que: (i) os escritórios registraram um aumento na taxa de vacância de 410 bps t/t para 26,7%, refletindo o término de aluguéis em alguns edifícios no Rio; e (ii) Best Center apresentou crescimento de SSS de +9,3% a/a e SSR de +20,0% a/a, enquanto reduzia sua taxa de vacância para 8,9% (-440 bps a/a; -120 bps t/t). Por outro lado, a empresa está programada para executar os trabalhos de retrofit na propriedade multifamiliar GO850 recentemente adquirida.<br />
+<br />
+<strong>A São Carlos tem atuado em fusões e aquisições</strong><br />
+<br />
+A São Carlos tem se envolvido em muitas fusões e aquisições no setor recentemente, incluindo outros segmentos além de edifícios de escritórios: (i) em julho, a São Carlos comprou um imóvel multifamiliar; e (ii) em agosto, adquiriu um grande portfólio de varejo. Essas fusões e aquisições têm sido cumulativas para a empresa e marcam sua entrada em novos mercados, que consideramos positivos para a empresa.<br />
+<br />
+<strong>O 3T21 foi quase sem intercorrências; Classificação neutra (22x P/FFO 2022E)</strong><br />
+<br />
+Em nossa opinião, os resultados trimestrais ficaram em linha com as expectativas (o Ebitda e o FFO ajustados foram semelhantes às nossas projeções e a vacância de escritórios manteve-se elevada, conforme o esperado). Portanto, esperamos uma reação neutra do mercado aos resultados do 3T21 e mantemos nosso rating Neutro sobre as ações devido à falta de dinâmica de curto prazo (baixa demanda por escritórios e aumento das taxas de juros) e os múltiplos de avaliação um tanto elevados (negociando a 22x P/FFO 2022E).
+$14
+dividend_yield
+$18
+0.9333755373954773
+$17
+mean_daily_return
+$21
+-0.006919365841895342
+$17
+mean_daily_volume
+$16
+10781.8564453125
+$11
+forecast12m
+$19
+0.41999998688697815
+$9
+return12m
+$18
+-6.688549518585205
+$5
+price
+$4
+36.5
+*3
+$3
+SET
+$37
+{user.filter}.lucasblazzi@hotmail.com
+$140
+{"email": "lucasblazzi@hotmail.com", "stocks": {"segment": "Propriedades"}, "funds": {"rating": "AA", "adm_tax_min": 0, "adm_tax_max": 0.4}}
+*35
+$4
+XADD
+$8
+products
+$15
+1637101994684-0
+$4
+name
+$11
+São Carlos
+$4
+link
+$61
+https://www.btgpactualdigital.com/blog/area_de_analises/18622
+$16
+publication_date
+$10
+2021-11-14
+$8
+category
+$7
+Ações
+$6
+source
+$19
+BTG Pactual Digital
+$6
+ticker
+$5
+SCAR3
+$12
+target_price
+$6
+4200.0
+$7
+segment
+$12
+Propriedades
+$14
+recommendation
+$6
+NEUTRO
+$11
+description
+$2595
+<strong>Resultado 3T21</strong><br />
+<br />
+<strong>O FFO foi de R$ 17 milhões (-13% a/a), em linha com nossas expectativas</strong><br />
+<br />
+Como esperado, a São Carlos reportou resultados fracos no 3T21, ficando em linha com nossas estimativas. A receita líquida totalizou R$ 61 milhões (+ 2% a/a; 2% abaixo de nossas projeções), uma vez que as adições de ABL compensaram a maior vacância no segmento de escritórios. O Ebitda ajustado ficou em R$ 43 milhões (-8% a/a; em linha com nossa projeção) com uma margem de 67% (-770 bps a/a; +130 bps acima de nós). O FFO totalizou R$ 17 milhões (-13% a/a; correspondendo às nossas expectativas) e o LPA foi de R$ 0,30/ação (exatamente nossa projeção).<br />
+<br />
+<strong>Escritórios enfrentam maior vacância; Best Center continua aumentando as vendas</strong><br />
+<br />
+Vimos resultados mistos nos segmentos de escritórios e varejo (Best Center), mais uma vez, uma vez que: (i) os escritórios registraram um aumento na taxa de vacância de 410 bps t/t para 26,7%, refletindo o término de aluguéis em alguns edifícios no Rio; e (ii) Best Center apresentou crescimento de SSS de +9,3% a/a e SSR de +20,0% a/a, enquanto reduzia sua taxa de vacância para 8,9% (-440 bps a/a; -120 bps t/t). Por outro lado, a empresa está programada para executar os trabalhos de retrofit na propriedade multifamiliar GO850 recentemente adquirida.<br />
+<br />
+<strong>A São Carlos tem atuado em fusões e aquisições</strong><br />
+<br />
+A São Carlos tem se envolvido em muitas fusões e aquisições no setor recentemente, incluindo outros segmentos além de edifícios de escritórios: (i) em julho, a São Carlos comprou um imóvel multifamiliar; e (ii) em agosto, adquiriu um grande portfólio de varejo. Essas fusões e aquisições têm sido cumulativas para a empresa e marcam sua entrada em novos mercados, que consideramos positivos para a empresa.<br />
+<br />
+<strong>O 3T21 foi quase sem intercorrências; Classificação neutra (22x P/FFO 2022E)</strong><br />
+<br />
+Em nossa opinião, os resultados trimestrais ficaram em linha com as expectativas (o Ebitda e o FFO ajustados foram semelhantes às nossas projeções e a vacância de escritórios manteve-se elevada, conforme o esperado). Portanto, esperamos uma reação neutra do mercado aos resultados do 3T21 e mantemos nosso rating Neutro sobre as ações devido à falta de dinâmica de curto prazo (baixa demanda por escritórios e aumento das taxas de juros) e os múltiplos de avaliação um tanto elevados (negociando a 22x P/FFO 2022E).
+$14
+dividend_yield
+$18
+0.9333755373954773
+$17
+mean_daily_return
+$21
+-0.006919365841895342
+$17
+mean_daily_volume
+$16
+10781.8564453125
+$11
+forecast12m
+$19
+0.41999998688697815
+$9
+return12m
+$18
+-6.688549518585205
+$5
+price
+$4
+36.5
+*35
+$4
+XADD
+$8
+products
+$15
+1637102029886-0
+$4
+name
+$11
+São Carlos
+$4
+link
+$61
+https://www.btgpactualdigital.com/blog/area_de_analises/18622
+$16
+publication_date
+$10
+2021-11-14
+$8
+category
+$7
+Ações
+$6
+source
+$19
+BTG Pactual Digital
+$6
+ticker
+$5
+SCAR3
+$12
+target_price
+$6
+4200.0
+$7
+segment
+$12
+Propriedades
+$14
+recommendation
+$6
+NEUTRO
+$11
+description
+$2595
+<strong>Resultado 3T21</strong><br />
+<br />
+<strong>O FFO foi de R$ 17 milhões (-13% a/a), em linha com nossas expectativas</strong><br />
+<br />
+Como esperado, a São Carlos reportou resultados fracos no 3T21, ficando em linha com nossas estimativas. A receita líquida totalizou R$ 61 milhões (+ 2% a/a; 2% abaixo de nossas projeções), uma vez que as adições de ABL compensaram a maior vacância no segmento de escritórios. O Ebitda ajustado ficou em R$ 43 milhões (-8% a/a; em linha com nossa projeção) com uma margem de 67% (-770 bps a/a; +130 bps acima de nós). O FFO totalizou R$ 17 milhões (-13% a/a; correspondendo às nossas expectativas) e o LPA foi de R$ 0,30/ação (exatamente nossa projeção).<br />
+<br />
+<strong>Escritórios enfrentam maior vacância; Best Center continua aumentando as vendas</strong><br />
+<br />
+Vimos resultados mistos nos segmentos de escritórios e varejo (Best Center), mais uma vez, uma vez que: (i) os escritórios registraram um aumento na taxa de vacância de 410 bps t/t para 26,7%, refletindo o término de aluguéis em alguns edifícios no Rio; e (ii) Best Center apresentou crescimento de SSS de +9,3% a/a e SSR de +20,0% a/a, enquanto reduzia sua taxa de vacância para 8,9% (-440 bps a/a; -120 bps t/t). Por outro lado, a empresa está programada para executar os trabalhos de retrofit na propriedade multifamiliar GO850 recentemente adquirida.<br />
+<br />
+<strong>A São Carlos tem atuado em fusões e aquisições</strong><br />
+<br />
+A São Carlos tem se envolvido em muitas fusões e aquisições no setor recentemente, incluindo outros segmentos além de edifícios de escritórios: (i) em julho, a São Carlos comprou um imóvel multifamiliar; e (ii) em agosto, adquiriu um grande portfólio de varejo. Essas fusões e aquisições têm sido cumulativas para a empresa e marcam sua entrada em novos mercados, que consideramos positivos para a empresa.<br />
+<br />
+<strong>O 3T21 foi quase sem intercorrências; Classificação neutra (22x P/FFO 2022E)</strong><br />
+<br />
+Em nossa opinião, os resultados trimestrais ficaram em linha com as expectativas (o Ebitda e o FFO ajustados foram semelhantes às nossas projeções e a vacância de escritórios manteve-se elevada, conforme o esperado). Portanto, esperamos uma reação neutra do mercado aos resultados do 3T21 e mantemos nosso rating Neutro sobre as ações devido à falta de dinâmica de curto prazo (baixa demanda por escritórios e aumento das taxas de juros) e os múltiplos de avaliação um tanto elevados (negociando a 22x P/FFO 2022E).
+$14
+dividend_yield
+$18
+0.9333755373954773
+$17
+mean_daily_return
+$21
+-0.006919365841895342
+$17
+mean_daily_volume
+$16
+10781.8564453125
+$11
+forecast12m
+$19
+0.41999998688697815
+$9
+return12m
+$18
+-6.688549518585205
+$5
+price
+$4
+36.5
+*3
+$3
+SET
+$37
+{user.filter}.lucasblazzi@hotmail.com
+$140
+{"email": "lucasblazzi@hotmail.com", "stocks": {"segment": "Propriedades"}, "funds": {"rating": "AA", "adm_tax_min": 0, "adm_tax_max": 0.4}}
+*35
+$4
+XADD
+$8
+products
+$15
+1637102048780-0
+$4
+name
+$11
+São Carlos
+$4
+link
+$61
+https://www.btgpactualdigital.com/blog/area_de_analises/18622
+$16
+publication_date
+$10
+2021-11-14
+$8
+category
+$7
+Ações
+$6
+source
+$19
+BTG Pactual Digital
+$6
+ticker
+$5
+SCAR3
+$12
+target_price
+$6
+4200.0
+$7
+segment
+$12
+Propriedades
+$14
+recommendation
+$6
+NEUTRO
+$11
+description
+$2595
+<strong>Resultado 3T21</strong><br />
+<br />
+<strong>O FFO foi de R$ 17 milhões (-13% a/a), em linha com nossas expectativas</strong><br />
+<br />
+Como esperado, a São Carlos reportou resultados fracos no 3T21, ficando em linha com nossas estimativas. A receita líquida totalizou R$ 61 milhões (+ 2% a/a; 2% abaixo de nossas projeções), uma vez que as adições de ABL compensaram a maior vacância no segmento de escritórios. O Ebitda ajustado ficou em R$ 43 milhões (-8% a/a; em linha com nossa projeção) com uma margem de 67% (-770 bps a/a; +130 bps acima de nós). O FFO totalizou R$ 17 milhões (-13% a/a; correspondendo às nossas expectativas) e o LPA foi de R$ 0,30/ação (exatamente nossa projeção).<br />
+<br />
+<strong>Escritórios enfrentam maior vacância; Best Center continua aumentando as vendas</strong><br />
+<br />
+Vimos resultados mistos nos segmentos de escritórios e varejo (Best Center), mais uma vez, uma vez que: (i) os escritórios registraram um aumento na taxa de vacância de 410 bps t/t para 26,7%, refletindo o término de aluguéis em alguns edifícios no Rio; e (ii) Best Center apresentou crescimento de SSS de +9,3% a/a e SSR de +20,0% a/a, enquanto reduzia sua taxa de vacância para 8,9% (-440 bps a/a; -120 bps t/t). Por outro lado, a empresa está programada para executar os trabalhos de retrofit na propriedade multifamiliar GO850 recentemente adquirida.<br />
+<br />
+<strong>A São Carlos tem atuado em fusões e aquisições</strong><br />
+<br />
+A São Carlos tem se envolvido em muitas fusões e aquisições no setor recentemente, incluindo outros segmentos além de edifícios de escritórios: (i) em julho, a São Carlos comprou um imóvel multifamiliar; e (ii) em agosto, adquiriu um grande portfólio de varejo. Essas fusões e aquisições têm sido cumulativas para a empresa e marcam sua entrada em novos mercados, que consideramos positivos para a empresa.<br />
+<br />
+<strong>O 3T21 foi quase sem intercorrências; Classificação neutra (22x P/FFO 2022E)</strong><br />
+<br />
+Em nossa opinião, os resultados trimestrais ficaram em linha com as expectativas (o Ebitda e o FFO ajustados foram semelhantes às nossas projeções e a vacância de escritórios manteve-se elevada, conforme o esperado). Portanto, esperamos uma reação neutra do mercado aos resultados do 3T21 e mantemos nosso rating Neutro sobre as ações devido à falta de dinâmica de curto prazo (baixa demanda por escritórios e aumento das taxas de juros) e os múltiplos de avaliação um tanto elevados (negociando a 22x P/FFO 2022E).
+$14
+dividend_yield
+$18
+0.9333755373954773
+$17
+mean_daily_return
+$21
+-0.006919365841895342
+$17
+mean_daily_volume
+$16
+10781.8564453125
+$11
+forecast12m
+$19
+0.41999998688697815
+$9
+return12m
+$18
+-6.688549518585205
+$5
+price
+$4
+36.5
+*3
+$3
+SET
+$37
+{user.filter}.lucasblazzi@hotmail.com
+$140
+{"email": "lucasblazzi@hotmail.com", "stocks": {"segment": "Propriedades"}, "funds": {"rating": "AA", "adm_tax_min": 0, "adm_tax_max": 0.4}}
+*3
+$3
+SET
+$37
+{user.filter}.lucasblazzi@hotmail.com
+$140
+{"email": "lucasblazzi@hotmail.com", "stocks": {"segment": "Propriedades"}, "funds": {"rating": "AA", "adm_tax_min": 0, "adm_tax_max": 0.4}}
+*35
+$4
+XADD
+$8
+products
+$15
+1637107516525-0
+$4
+name
+$11
+São Carlos
+$4
+link
+$61
+https://www.btgpactualdigital.com/blog/area_de_analises/18622
+$16
+publication_date
+$10
+2021-11-14
+$8
+category
+$7
+Ações
+$6
+source
+$19
+BTG Pactual Digital
+$6
+ticker
+$5
+SCAR3
+$12
+target_price
+$6
+4200.0
+$7
+segment
+$12
+Propriedades
+$14
+recommendation
+$6
+NEUTRO
+$11
+description
+$2595
+<strong>Resultado 3T21</strong><br />
+<br />
+<strong>O FFO foi de R$ 17 milhões (-13% a/a), em linha com nossas expectativas</strong><br />
+<br />
+Como esperado, a São Carlos reportou resultados fracos no 3T21, ficando em linha com nossas estimativas. A receita líquida totalizou R$ 61 milhões (+ 2% a/a; 2% abaixo de nossas projeções), uma vez que as adições de ABL compensaram a maior vacância no segmento de escritórios. O Ebitda ajustado ficou em R$ 43 milhões (-8% a/a; em linha com nossa projeção) com uma margem de 67% (-770 bps a/a; +130 bps acima de nós). O FFO totalizou R$ 17 milhões (-13% a/a; correspondendo às nossas expectativas) e o LPA foi de R$ 0,30/ação (exatamente nossa projeção).<br />
+<br />
+<strong>Escritórios enfrentam maior vacância; Best Center continua aumentando as vendas</strong><br />
+<br />
+Vimos resultados mistos nos segmentos de escritórios e varejo (Best Center), mais uma vez, uma vez que: (i) os escritórios registraram um aumento na taxa de vacância de 410 bps t/t para 26,7%, refletindo o término de aluguéis em alguns edifícios no Rio; e (ii) Best Center apresentou crescimento de SSS de +9,3% a/a e SSR de +20,0% a/a, enquanto reduzia sua taxa de vacância para 8,9% (-440 bps a/a; -120 bps t/t). Por outro lado, a empresa está programada para executar os trabalhos de retrofit na propriedade multifamiliar GO850 recentemente adquirida.<br />
+<br />
+<strong>A São Carlos tem atuado em fusões e aquisições</strong><br />
+<br />
+A São Carlos tem se envolvido em muitas fusões e aquisições no setor recentemente, incluindo outros segmentos além de edifícios de escritórios: (i) em julho, a São Carlos comprou um imóvel multifamiliar; e (ii) em agosto, adquiriu um grande portfólio de varejo. Essas fusões e aquisições têm sido cumulativas para a empresa e marcam sua entrada em novos mercados, que consideramos positivos para a empresa.<br />
+<br />
+<strong>O 3T21 foi quase sem intercorrências; Classificação neutra (22x P/FFO 2022E)</strong><br />
+<br />
+Em nossa opinião, os resultados trimestrais ficaram em linha com as expectativas (o Ebitda e o FFO ajustados foram semelhantes às nossas projeções e a vacância de escritórios manteve-se elevada, conforme o esperado). Portanto, esperamos uma reação neutra do mercado aos resultados do 3T21 e mantemos nosso rating Neutro sobre as ações devido à falta de dinâmica de curto prazo (baixa demanda por escritórios e aumento das taxas de juros) e os múltiplos de avaliação um tanto elevados (negociando a 22x P/FFO 2022E).
+$14
+dividend_yield
+$18
+0.9333755373954773
+$17
+mean_daily_return
+$21
+-0.006919365841895342
+$17
+mean_daily_volume
+$16
+10781.8564453125
+$11
+forecast12m
+$19
+0.41999998688697815
+$9
+return12m
+$18
+-6.688549518585205
+$5
+price
+$4
+36.5
+*2
+$6
+SELECT
+$1
+0
+*3
+$3
+SET
+$37
+{user.filter}.lucasblazzi@hotmail.com
+$140
+{"email": "lucasblazzi@hotmail.com", "stocks": {"segment": "Propriedades"}, "funds": {"rating": "AA", "adm_tax_min": 0, "adm_tax_max": 0.4}}
+*35
+$4
+XADD
+$8
+products
+$15
+1637111683344-0
+$4
+name
+$11
+São Carlos
+$4
+link
+$61
+https://www.btgpactualdigital.com/blog/area_de_analises/18622
+$16
+publication_date
+$10
+2021-11-14
+$8
+category
+$7
+Ações
+$6
+source
+$19
+BTG Pactual Digital
+$6
+ticker
+$5
+SCAR3
+$12
+target_price
+$6
+4200.0
+$7
+segment
+$12
+Propriedades
+$14
+recommendation
+$6
+NEUTRO
+$11
+description
+$2595
+<strong>Resultado 3T21</strong><br />
+<br />
+<strong>O FFO foi de R$ 17 milhões (-13% a/a), em linha com nossas expectativas</strong><br />
+<br />
+Como esperado, a São Carlos reportou resultados fracos no 3T21, ficando em linha com nossas estimativas. A receita líquida totalizou R$ 61 milhões (+ 2% a/a; 2% abaixo de nossas projeções), uma vez que as adições de ABL compensaram a maior vacância no segmento de escritórios. O Ebitda ajustado ficou em R$ 43 milhões (-8% a/a; em linha com nossa projeção) com uma margem de 67% (-770 bps a/a; +130 bps acima de nós). O FFO totalizou R$ 17 milhões (-13% a/a; correspondendo às nossas expectativas) e o LPA foi de R$ 0,30/ação (exatamente nossa projeção).<br />
+<br />
+<strong>Escritórios enfrentam maior vacância; Best Center continua aumentando as vendas</strong><br />
+<br />
+Vimos resultados mistos nos segmentos de escritórios e varejo (Best Center), mais uma vez, uma vez que: (i) os escritórios registraram um aumento na taxa de vacância de 410 bps t/t para 26,7%, refletindo o término de aluguéis em alguns edifícios no Rio; e (ii) Best Center apresentou crescimento de SSS de +9,3% a/a e SSR de +20,0% a/a, enquanto reduzia sua taxa de vacância para 8,9% (-440 bps a/a; -120 bps t/t). Por outro lado, a empresa está programada para executar os trabalhos de retrofit na propriedade multifamiliar GO850 recentemente adquirida.<br />
+<br />
+<strong>A São Carlos tem atuado em fusões e aquisições</strong><br />
+<br />
+A São Carlos tem se envolvido em muitas fusões e aquisições no setor recentemente, incluindo outros segmentos além de edifícios de escritórios: (i) em julho, a São Carlos comprou um imóvel multifamiliar; e (ii) em agosto, adquiriu um grande portfólio de varejo. Essas fusões e aquisições têm sido cumulativas para a empresa e marcam sua entrada em novos mercados, que consideramos positivos para a empresa.<br />
+<br />
+<strong>O 3T21 foi quase sem intercorrências; Classificação neutra (22x P/FFO 2022E)</strong><br />
+<br />
+Em nossa opinião, os resultados trimestrais ficaram em linha com as expectativas (o Ebitda e o FFO ajustados foram semelhantes às nossas projeções e a vacância de escritórios manteve-se elevada, conforme o esperado). Portanto, esperamos uma reação neutra do mercado aos resultados do 3T21 e mantemos nosso rating Neutro sobre as ações devido à falta de dinâmica de curto prazo (baixa demanda por escritórios e aumento das taxas de juros) e os múltiplos de avaliação um tanto elevados (negociando a 22x P/FFO 2022E).
+$14
+dividend_yield
+$18
+0.9333755373954773
+$17
+mean_daily_return
+$21
+-0.006919365841895342
+$17
+mean_daily_volume
+$16
+10781.8564453125
+$11
+forecast12m
+$19
+0.41999998688697815
+$9
+return12m
+$18
+-6.688549518585205
+$5
+price
+$4
+36.5
+*35
+$4
+XADD
+$8
+products
+$15
+1637111845825-0
+$4
+name
+$11
+São Carlos
+$4
+link
+$61
+https://www.btgpactualdigital.com/blog/area_de_analises/18622
+$16
+publication_date
+$10
+2021-11-14
+$8
+category
+$7
+Ações
+$6
+source
+$19
+BTG Pactual Digital
+$6
+ticker
+$5
+SCAR3
+$12
+target_price
+$6
+4200.0
+$7
+segment
+$12
+Propriedades
+$14
+recommendation
+$6
+NEUTRO
+$11
+description
+$2595
+<strong>Resultado 3T21</strong><br />
+<br />
+<strong>O FFO foi de R$ 17 milhões (-13% a/a), em linha com nossas expectativas</strong><br />
+<br />
+Como esperado, a São Carlos reportou resultados fracos no 3T21, ficando em linha com nossas estimativas. A receita líquida totalizou R$ 61 milhões (+ 2% a/a; 2% abaixo de nossas projeções), uma vez que as adições de ABL compensaram a maior vacância no segmento de escritórios. O Ebitda ajustado ficou em R$ 43 milhões (-8% a/a; em linha com nossa projeção) com uma margem de 67% (-770 bps a/a; +130 bps acima de nós). O FFO totalizou R$ 17 milhões (-13% a/a; correspondendo às nossas expectativas) e o LPA foi de R$ 0,30/ação (exatamente nossa projeção).<br />
+<br />
+<strong>Escritórios enfrentam maior vacância; Best Center continua aumentando as vendas</strong><br />
+<br />
+Vimos resultados mistos nos segmentos de escritórios e varejo (Best Center), mais uma vez, uma vez que: (i) os escritórios registraram um aumento na taxa de vacância de 410 bps t/t para 26,7%, refletindo o término de aluguéis em alguns edifícios no Rio; e (ii) Best Center apresentou crescimento de SSS de +9,3% a/a e SSR de +20,0% a/a, enquanto reduzia sua taxa de vacância para 8,9% (-440 bps a/a; -120 bps t/t). Por outro lado, a empresa está programada para executar os trabalhos de retrofit na propriedade multifamiliar GO850 recentemente adquirida.<br />
+<br />
+<strong>A São Carlos tem atuado em fusões e aquisições</strong><br />
+<br />
+A São Carlos tem se envolvido em muitas fusões e aquisições no setor recentemente, incluindo outros segmentos além de edifícios de escritórios: (i) em julho, a São Carlos comprou um imóvel multifamiliar; e (ii) em agosto, adquiriu um grande portfólio de varejo. Essas fusões e aquisições têm sido cumulativas para a empresa e marcam sua entrada em novos mercados, que consideramos positivos para a empresa.<br />
+<br />
+<strong>O 3T21 foi quase sem intercorrências; Classificação neutra (22x P/FFO 2022E)</strong><br />
+<br />
+Em nossa opinião, os resultados trimestrais ficaram em linha com as expectativas (o Ebitda e o FFO ajustados foram semelhantes às nossas projeções e a vacância de escritórios manteve-se elevada, conforme o esperado). Portanto, esperamos uma reação neutra do mercado aos resultados do 3T21 e mantemos nosso rating Neutro sobre as ações devido à falta de dinâmica de curto prazo (baixa demanda por escritórios e aumento das taxas de juros) e os múltiplos de avaliação um tanto elevados (negociando a 22x P/FFO 2022E).
+$14
+dividend_yield
+$18
+0.9333755373954773
+$17
+mean_daily_return
+$21
+-0.006919365841895342
+$17
+mean_daily_volume
+$16
+10781.8564453125
+$11
+forecast12m
+$19
+0.41999998688697815
+$9
+return12m
+$18
+-6.688549518585205
+$5
+price
+$4
+36.5

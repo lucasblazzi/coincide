@@ -11,6 +11,7 @@ class Product:
     def compose_product(self):
         builder = self.product["category_builder"]
         base = {
+            "category_builder": builder,
             "name": str(self.product.get("Nome", "")),
             "link": str(self.product.get("Informações", "")),
             "publication_date": date.today().strftime("%Y-%m-%d"),
